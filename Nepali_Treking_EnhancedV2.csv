@@ -1,0 +1,517 @@
+Unnamed: 0,Trek,Cost,Time,Trip Grade,Max Altitude,Accomodation,Best Travel Time,Date of Travel,Sex,Age,Employment Type,GraduateOrNot,AnnualIncome,FrequentFlyer,Year,Regional code,Country,Fitness Level,Weather Conditions,Trekking Group Size,Guide/No Guide,Equipment Used,Purpose of Travel,Health Incidents,Review/Satisfaction
+0,Everest Base Camp Trek,"
+$1,420     USD", 16 Days,Moderate,5545 m,Hotel/Guesthouse,March - May & Sept - Dec,9/13/2022,Non-Binary,31,Government Sector,Yes,400000,No,2017,0,total,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+1,Everest Base Camp Short Trek,"
+$1,295     USD", 14 Days,Moderate,5545 m,Hotel/Guesthouse,March - May & Sept - Dec,9/4/2021,Female,31,Private Sector/Self Employed,Yes,1250000,No,2017,40,Afghanistan,,,,,,,,
+2,Everest Base Camp Heli Shuttle Trek,"
+$2000 USD", 12 Days,Moderate,5545 m,Hotel/Guesthouse,March - May & Sept - Dec,1/25/2021,Female,34,Private Sector/Self Employed,Yes,500000,No,2017,80,Albania,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+3,Everest Base Camp Heli Trek,"
+$3,300     USD", 11 Days,Moderate,5545 m,Hotel/Guesthouse,March - May & Sept - Dec,1/28/2022,Non-Binary,28,Private Sector/Self Employed,Yes,700000,No,2017,120,Algeria,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+4,Everest Base Camp Trek for Seniors,"
+$1,800     USD", 20 Days,Moderate,5545 m,Hotel/Guesthouse,March - May & Sept - Dec,10/21/2021,Non-Binary,28,Private Sector/Self Employed,Yes,700000,Yes,2017,200,Andra,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+5,Everest Chola Pass Trek,"
+$1,720     USD", 19 Days,Strenuous,5545 m,Hotel/Guesthouse,March - May & Sept - Dec,1/25/2022,Non-Binary,25,Private Sector/Self Employed,No,1150000,No,2017,240,Angola,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+6,Gokyo Lake Renjo La Pass Trek,"
+$1,450     USD", 16 Days,Moderate,5360 m,Hotel/Guesthouse,March - May & Sept - Dec.,8/7/2022,Male,31,Government Sector,Yes,1300000,No,2017,280,Antigua Berbuda,,,,,,,,
+7,Everest High Passes Trek,"
+$1,950     USD", 22 Days,Strenuous,5545 m,Hotel/Guesthouse,April - May & Sept - Nov,1/4/2021,Transgender,31,Private Sector/Self Employed,Yes,1350000,Yes,2017,310,Azerbaijan,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+8,Short Everest Trek,"
+$1060 USD", 7 Days,Easy To Moderate,3900 m,Hotel/Guesthouse,March - May & Sept - Dec.,6/28/2022,Female,28,Private Sector/Self Employed,Yes,1450000,Yes,2017,320,Argentina,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+9,Everest Panorama Trek,"
+$1150 USD", 10 Days,Easy To Moderate,3860 m,Hotel/Guesthouse,Jan - May & Sept - Dec,1/31/2020,Female,33,Government Sector,Yes,800000,Yes,2017,360,Australia,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+10,Everest View Trek,"
+$1100 USD", 9 Days,Easy To Moderate,3860 m,Hotel/Guesthouse,Jan - May & Sept - Dec,10/11/2020,Transgender,31,Government Sector,Yes,400000,No,2017,400,Austria,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+11,Luxury Everest Base Camp Heli Trek,"
+$4,200     USD", 11 Days,Moderate,5545 m,Hotel/Teahouse,March-May & Sept-Dec.,11/14/2020,Non-Binary,26,Private Sector/Self Employed,Yes,1400000,Yes,2017,440,Bahamas,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+12,Everest Base Camp Trek with Chola and Renjo La Pass,"
+$1,900     USD", 21 Days,Strenuous,5545 m,Hotel/Guesthouse,March - May & Sept - Nov,3/3/2022,Male,32,Government Sector,Yes,850000,No,2017,480,Barrane,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+13,Annapurna Base Camp Trek,"
+$1,090     USD", 14 Days,Moderate,4210 m,Hotel/Guesthouse,March - May & Sept - Dec,12/3/2020,Non-Binary,31,Government Sector,Yes,1500000,Yes,2017,500,Bangladesh,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+14,Annapurna Base Camp Short Trek,"
+$1,090     USD", 11 Days,Easy To Moderate,4210 m,Hotel/Teahouses,March - May & Sept - Dec,3/17/2022,Male,31,Government Sector,Yes,400000,No,2017,510,Armenia,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+15,Instant Annapurna Base Camp Trek,"
+$980     USD", 9 Days,Moderate,4230 m,Hotel/Guest Houses,March - May & Sept - Dec.,8/21/2023,Male,34,Private Sector/Self Employed,Yes,700000,No,2017,520,Barbados,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+16,Annapurna Base Camp Heli Trek,"
+$1,750     USD", 9 Days,Easy To Moderate,4210 m,Hotel/Teahouses,March - May & Sept - Dec,10/7/2022,Male,28,Private Sector/Self Employed,Yes,1150000,No,2017,560,Belgium,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+17,Mardi Himal Trek,"
+$850     USD", 9 Days,Easy To Moderate,4200 m,Hotel/Guesthouses,March - May & Sept - Dec,6/16/2022,Male,28,Private Sector/Self Employed,Yes,800000,No,2017,640,Bhutan,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+18,Mardi Himal Trekking,"
+$850     USD", 8 Days,Easy To Moderate,"4,200 m",Hotel/Guesthouse,March-May & Sept-Dec.,12/15/2021,Transgender,29,Private Sector/Self Employed,Yes,1050000,No,2017,680,Bolivia,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+19,Classic Annapurna Circuit Trek,"
+$1,350     USD", 18 Days,Moderate,5416 m,Hotel/Teahouses,March - May & Sept - Nov,2/22/2021,Female,34,Private Sector/Self Employed,Yes,1500000,Yes,2017,700,Bosnia Herzegovna,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+20,Annapurna Circuit Trek,"
+$1,250     USD", 14 Days,Moderate,5416 m,Hotel/Teahouses,March-May & Sept-Dec,5/6/2020,Transgender,28,Private Sector/Self Employed,Yes,1150000,Yes,2017,720,Botwana,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+21,Annapurna Circuit Short Trek,"
+$1,250     USD", 12 Days,Strenuous,5416 m,Hotel/Guesthouse,March - May & Sept - Nov.,8/6/2020,Non-Binary,29,Private Sector/Self Employed,Yes,350000,No,2017,760,Brazil,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+22,Annapurna Luxury Trek,"
+$1,450     USD", 9 Days,Easy To Moderate,2012m,Hotel/Luxury Lodges,March - May & Setpt - Dec,6/18/2021,Transgender,31,Private Sector/Self Employed,Yes,1100000,No,2017,840,Belize,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+23,Annapurna Panorama Trek,"
+$860     USD", 9 Days,Easy,3210 m,Hotel/Teahouse,Jan - May & Sept - Dec,8/1/2021,Male,28,Government Sector,Yes,600000,No,2017,900,Solomon,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+24,Annapurna Tilicho Lake Trek,"
+$1,450     USD", 17 Days,Strenuous,5416 m,Hotel/Guesthouse,March - May & Sept - Nov,6/12/2020,Male,31,Government Sector,Yes,1500000,Yes,2017,960,Brunei,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+25,Short Annapurna Trek,"
+$590     USD", 5 Days,Easy,1990 m,Hotel/Lodges,Jan- May & Sept - Dec,1/13/2022,Male,35,Private Sector/Self Employed,No,800000,No,2017,1000,Bulgaria,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+26,Manaslu Circuit Trek,"
+$1,450     USD", 15 Days,Strenuous,5106 m,Hotel/Guesthouse,March - May & Sept - Nov,4/1/2023,Male,34,Private Sector/Self Employed,No,1300000,Yes,2017,1040,Myanmar,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+27,Manaslu Circuit Trekking,"
+$1,380     USD", 14 Days,Moderate,5220 m,Hotel/Teahouses,March - May & Setpt - Nov,10/6/2020,Transgender,28,Private Sector/Self Employed,Yes,1250000,Yes,2017,1080,Brush,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+28,Tsum Valley with Manaslu Trek,"
+$1,850     USD", 20 Days,Strenuous,5220 m,Hotel/Guesthouse,March - May & Sept - Nov,7/7/2023,Male,26,Private Sector/Self Employed,Yes,600000,Yes,2017,1120,Belarus,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+29,Upper Mustang Trek,"
+$2,150     USD", 17 Days,Easy To Moderate,4210 m,Hotel/Guesthouse,March - May & Sept - Nov.,10/14/2020,Male,31,Private Sector/Self Employed,Yes,900000,No,2017,1160,Cambodia,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+30,Upper Mustang Trek with Yara,"
+$2,300     USD", 18 Days,Easy To Moderate,4200 m,Hotel/Lodges,March - Nov,7/23/2022,Transgender,30,Private Sector/Self Employed,No,550000,Yes,2017,1200,Cameroon,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+31,Upper Mustang Tiji Festival Trek,"
+$2,150     USD", 18 Days,Easy To Moderate,4210 m,Hotel/Teahouses,March - May & Sept - Nov,7/9/2022,Transgender,31,Government Sector,No,300000,No,2017,1240,Canada,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+32,Langtang Valley Trek,"
+$750     USD", 10 Days,Easy To Moderate,5050 m,Hotel/Teahouse,March-May & Sept-Dec,10/21/2021,Female,25,Government Sector,Yes,750000,No,2017,1320,Carbo verde,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+33,Langtang Gosaikunda Trek,"
+$1,180     USD", 16 Days,Easy To Moderate,4600m,Hotel/Guesthouse,March - May & Sept - Dec,4/11/2022,Male,32,Government Sector,Yes,850000,No,2017,1400,Central Africa,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+34,Tamang Heritage Trek,"
+$920     USD", 14 Days,Easy To Moderate,5050 m,Hotel/Guesthouse,March - May & Sept - Dec,11/24/2022,Female,28,Private Sector/Self Employed,Yes,800000,No,2017,1440,Sri Lanka,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+35,Tamang Heritage Trail,"
+$750     USD", 8 Days,Easy,2607 m,Teahouses/Lodges,Jan - May & Sept - Dec,3/3/2022,Non-Binary,33,Private Sector/Self Employed,Yes,1400000,Yes,2017,1480,Chad,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+36,Helambu Trek,"
+$780     USD", 9 Days,Easy,3650 m,Hotel/Guesthouse,Jan - May & Sept- Dec,1/24/2020,Male,31,Government Sector,No,300000,No,2017,1520,Chile,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+37,Annapurna Base Camp Trek  ," $1,499     USD", 11 Days,Moderate+Demanding,"4,130m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/20/2020,Non-Binary,34,Private Sector/Self Employed,Yes,700000,No,2017,1560,China,,,,,,,,
+38,Everest Base Camp Trek for Youths  ," $1,750     USD", 14 Days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,8/27/2020,Female,34,Government Sector,Yes,1100000,No,2017,1580,Taiwan,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+39,Everest Base Camp Short Trek  ," $1,499     USD", 14 Days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/8/2022,Female,33,Private Sector/Self Employed,Yes,1500000,Yes,2017,1700,Columbia,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+40,Everest Base Camp Trek  ," $1,499     USD", 16 Days,Moderate+Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,6/11/2020,Transgender,25,Private Sector/Self Employed,Yes,1400000,Yes,2017,1740,Komoro,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+41,Annapurna Circuit Trek  ," $1,499     USD", 17 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,7/15/2020,Non-Binary,33,Private Sector/Self Employed,Yes,550000,No,2017,1780,Congo,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+42,Everest Base Camp Luxury Lodge Trek  ," $1,499     USD", 15 Days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/19/2020,Male,26,Private Sector/Self Employed,Yes,1500000,Yes,2017,1800,Congo Democratic Republic,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+43,Everest Base Camp Trek via Gokyo Lakes and Cho La Pass  ," $1,499     USD", 18 days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,2/7/2022,Non-Binary,28,Private Sector/Self Employed,Yes,1200000,Yes,2017,1880,Costa Rica,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+44,Upper Mustang Trek  ," $1,499     USD", 17 Days,Moderate+Demanding,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/23/2022,Female,25,Private Sector/Self Employed,Yes,1400000,No,2017,1910,Croatia,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+45,Everest Advanced Base Camp Trek from Tibet  ," $1,499     USD", 18 Days,Moderate+Demanding,"6,340m",Hotel/Guesthouse,Jan - May & Sept - Dec,8/19/2021,Transgender,34,Private Sector/Self Employed,No,1400000,No,2017,1920,Cuba,,,,,,,,
+46,Gokyo Lakes and Gokyo Ri Trek  ," $1,499     USD", 14 Days,Moderate+Demanding,"5,357m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/23/2023,Female,25,Private Sector/Self Employed,Yes,1400000,No,2017,1960,Cyprus,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+47,Mardi Himal Trek  ," $1,499     USD", 10 Days,Moderate,"3,540m",Hotel/Guesthouse,Jan - May & Sept - Dec,11/3/2020,Female,35,Government Sector,Yes,1100000,No,2017,2030,Czech Republic,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+48,Manaslu Circuit Trek  ," $1,499     USD", 18 Days,Demanding,"5,160m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/26/2020,Transgender,28,Private Sector/Self Employed,Yes,600000,No,2017,2040,Benan,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+49,Langtang Valley Trek  ," $1,499     USD", 11 Days,Moderate+Demanding,"5,000m",Hotel/Guesthouse,Jan - May & Sept - Dec,9/10/2021,Female,31,Private Sector/Self Employed,Yes,1350000,No,2017,2080,Denmark,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+50,Annapurna Sanctuary Trek  ," $1,499     USD", 14 Days,Moderate+Demanding,"4,130m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/24/2020,Male,31,Private Sector/Self Employed,Yes,1250000,No,2017,2120,Dominica,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+51,Rara Lake Trek  ," $1,499     USD", 15 Days,Moderate,"3,055m",Hotel/Guesthouse,Jan - May & Sept - Dec,7/28/2022,Non-Binary,29,Private Sector/Self Employed,Yes,1050000,No,2017,2140,dominican republic,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+52,Everest High Passes Trek  ," $1,499     USD", 20 Days,Demanding,"5,546m",Hotel/Guesthouse,Jan - May & Sept - Dec,7/8/2020,Female,31,Private Sector/Self Employed,Yes,1250000,No,2017,2180,Ecuador,,,,,,,,
+53,Kanchenjunga Circuit Trek  ," $1,499     USD", 25 Days,Demanding,"5,143m",Hotel/Guesthouse,Jan - May & Sept - Dec,10/15/2021,Non-Binary,28,Government Sector,Yes,300000,No,2017,2220,El Salvador,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+54,Everest View Trek  ," $1,499     USD", 12 Days,Light+Moderate,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/21/2021,Female,29,Private Sector/Self Employed,Yes,1200000,No,2017,2260,Equatorial guinea,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+55,Tsum Valley Trek  ," $1,499     USD", 19 Days,Demanding,"6,000m",Hotel/Guesthouse,Jan - May & Sept - Dec,11/1/2021,Male,26,Private Sector/Self Employed,Yes,750000,No,2017,2310,Ethiopia,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+56,The Royal Trek  ," $1,499     USD", 9 Days,Moderate,"1,730m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/14/2022,Transgender,28,Private Sector/Self Employed,Yes,550000,No,2017,2320,Eritria,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+57,Makalu Base Camp Trek  ," $1,499     USD", 22 Days,Demanding+Challenging,"4,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,9/20/2020,Non-Binary,34,Private Sector/Self Employed,Yes,1000000,No,2017,2330,Estonia,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+58,"Langtang, Gosainkunda and Helambu Trek  "," $1,499     USD", 17 Days,Moderate,"5,000m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/1/2021,Male,33,Private Sector/Self Employed,Yes,1400000,Yes,2017,2390,Georgia,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+59,Nar Phu Valley Trek  ," $1,499     USD", 19 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,2/28/2023,Female,33,Private Sector/Self Employed,Yes,1400000,Yes,2017,2420,Fiji,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+60,Annapurna Circle Trek  ," $1,499     USD", 14 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/11/2023,Male,31,Private Sector/Self Employed,Yes,1250000,Yes,2017,2460,Finland,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+61,Everest Kangshung Face Trek  ," $1,499     USD", 21 Days,Demanding+Challenging,"5,320m",Hotel/Guesthouse,Jan - May & Sept - Dec,10/11/2021,Transgender,32,Government Sector,Yes,800000,Yes,2017,2500,France,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+62,Tsum Valley and Manaslu Trek  ," $1,499     USD", 27 Days,Demanding,"4,460m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/4/2020,Male,28,Private Sector/Self Employed,Yes,800000,Yes,2017,2620,Jibuti,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+63,Khopra Ridge Community Trek  ," $1,499     USD", 13 Days,Moderate+Demanding,"4,500m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/9/2023,Female,27,Government Sector,Yes,500000,No,2017,2660,Gabon,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+64,Nepal Experience Tour  ," $1,499     USD", 12 Days,Light,"3,210m",Hotel/Guesthouse,Jan - May & Sept - Dec,11/23/2021,Female,30,Private Sector/Self Employed,No,1450000,Yes,2017,2700,Gambia,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+65,Annapurna Circuit Trek with Tilicho Lake and Poon Hill  ," $1,499     USD", 20 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,10/29/2021,Female,26,Private Sector/Self Employed,Yes,600000,No,2017,2750,Palestine,,,,,,,,
+66,Annapurna With Tilicho Lake Trek  ," $1,499     USD", 17 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,2/13/2021,Female,30,Private Sector/Self Employed,No,800000,Yes,2017,2760,Germany,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+67,Langtang Valley Trek with Ganja la Pass  ," $1,499     USD", 14 Days,Demanding+Challenging,"5,122m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/27/2021,Male,34,Private Sector/Self Employed,Yes,1500000,Yes,2017,2880,Ghana,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+68,Tamang Heritage Trek  ," $1,499     USD", 14 Days,Moderate,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/10/2022,Female,29,Private Sector/Self Employed,Yes,350000,No,2017,2960,Kiribass,,,,,,,,
+69,Manaslu and Annapurna Trek with Tilicho Lake  ," $1,499     USD", 25 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/18/2021,Female,31,Government Sector,No,300000,No,2017,3000,Greece,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+70,Nepal Trekking and Everest Himalaya Heli Tour  ," $1,499     USD", 7 Days,Moderate,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,12/2/2021,Non-Binary,34,Government Sector,Yes,1300000,No,2017,3080,Grenada,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+71,Nepal Hiking and Culture Tour  ," $1,499     USD", 8 Days,Moderate,"1,550m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/30/2021,Transgender,28,Private Sector/Self Employed,Yes,750000,Yes,2017,3200,Guatemala,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+72,Annapurna Sunrise and Everest View Trek  ," $1,499     USD", 17 Days,Moderate,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/16/2023,Non-Binary,28,Private Sector/Self Employed,Yes,800000,Yes,2017,3240,Guinea,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+73,Tenzing Hillary Everest Marathon  ," $1,499     USD", 20 Days,Demanding+Challenging,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,10/13/2022,Male,28,Private Sector/Self Employed,Yes,750000,Yes,2017,3280,Gaiana,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+74,Everest Base Camp Trek,$1450     USD,16 Days,Moderate-Hard,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/28/2023,Transgender,28,Private Sector/Self Employed,Yes,700000,No,2017,3320,Haiti,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+75,Everest Kalapathar Trekking,$1390     USD,15 Days,Moderate-Hard,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,9/16/2020,Non-Binary,34,Private Sector/Self Employed,Yes,1300000,No,2017,3400,Honduras,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+76,Everest Panorama Trek,$1040     USD,10 Days,Easy-Moderate,"3,860m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/24/2023,Non-Binary,29,Private Sector/Self Employed,Yes,1200000,No,2017,3440,China (Hong Kong),Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+77,Everest Base Camp Trek via Gokyo Lake,$1530     USD,19 Days,Moderate-Hard,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/1/2022,Non-Binary,31,Government Sector,No,400000,No,2017,3441,Hong Kong DI,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+78,Gokyo Lake Trek,$1190     USD,13 Days,Moderate,"5,357m",Hotel/Guesthouse,Jan - May & Sept - Dec,7/9/2020,Female,31,Government Sector,Yes,1300000,No,2017,3442,Hong Kong SAR,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+79,Everest Base Camp Heli Trek,$3600     USD,9 Days,Moderate,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,12/4/2020,Female,31,Government Sector,No,400000,No,2017,3480,Hungary,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+80,Annapurna Circuit Trek,$1100     USD,19 Days,Moderate-Hard,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/13/2021,Female,26,Private Sector/Self Employed,Yes,1300000,No,2017,3520,Iceland,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+81,Annapurna Base Camp Trek,$1090     USD,16 Days,Moderate,"4,130m",Hotel/Guesthouse,Jan - May & Sept - Dec,8/25/2021,Female,25,Private Sector/Self Employed,No,1150000,No,2017,3560,India,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+82,Ghorepani Poon Hill Trek,$450     USD,10 Days,Easy,"3,210m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/8/2023,Transgender,28,Private Sector/Self Employed,Yes,1250000,No,2017,3600,Indonesia,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+83,Upper Mustang Trek,$2100     USD,17 Days,Moderate-Hard,4200m,Hotel/Guesthouse,Jan - May & Sept - Dec,9/3/2021,Male,34,Private Sector/Self Employed,No,950000,Yes,2017,3640,Iran,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+84,Mardi Himal Trek,$590     USD,9 Days,Easy-Moderate,"4,500m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/9/2021,Female,32,Government Sector,Yes,350000,No,2017,3680,Iraq,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+85,Langtang Valley Trekking,$690     USD,11 Days,Moderate,"4,773m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/17/2023,Female,25,Private Sector/Self Employed,No,1700000,Yes,2017,3720,Ireland,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+86,Manaslu Circuit Trek,$1190     USD,17 Days,Moderate-Hard,"5,220m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/11/2023,Male,32,Government Sector,Yes,900000,No,2017,3760,Israel,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+87,Annapurna Base Camp Trek,"
+$1,090    USD", 14 Days,Moderate,4210 m,Hotel/Guesthouse,March - May & Sept - Dec,7/29/2022,Transgender,28,Government Sector,Yes,300000,No,2017,3800,Italy,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+88,Annapurna Base Camp Short Trek,"
+$1,090    USD", 11 Days,Easy To Moderate,4210 m,Hotel/Teahouses,March - May & Sept - Dec,6/4/2023,Transgender,34,Private Sector/Self Employed,Yes,1050000,No,2017,3840,Court Jiboire,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+89,Instant Annapurna Base Camp Trek,"
+$980    USD", 9 Days,Moderate,4230 m,Hotel/Guest Houses,March - May & Sept - Dec.,11/22/2022,Male,28,Government Sector,Yes,300000,No,2017,3880,Jamaica,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+90,Annapurna Base Camp Heli Trek,"
+$1,750    USD", 9 Days,Easy To Moderate,4210 m,Hotel/Teahouses,March - May & Sept - Dec,8/7/2023,Transgender,27,Government Sector,Yes,1050000,No,2017,3980,Kazakhstan,,,,,,,,
+91,Mardi Himal Trek,"
+$850    USD", 9 Days,Easy To Moderate,4200 m,Hotel/Guesthouses,March - May & Sept - Dec,4/15/2022,Transgender,28,Government Sector,Yes,300000,No,2017,4000,Jordan,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+92,Mardi Himal Trekking,"
+$850    USD", 8 Days,Easy To Moderate,"4,200 m",Hotel/Guesthouse,March-May & Sept-Dec.,4/11/2022,Transgender,28,Private Sector/Self Employed,Yes,1150000,No,2017,4040,Kenya,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+93,Classic Annapurna Circuit Trek,"
+$1,350    USD", 18 Days,Moderate,5416 m,Hotel/Teahouses,March - May & Sept - Nov,9/26/2021,Non-Binary,33,Government Sector,Yes,700000,Yes,2017,4080,north korea,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+94,Annapurna Circuit Trek,"
+$1,250    USD", 14 Days,Moderate,5416 m,Hotel/Teahouses,March-May & Sept-Dec,1/8/2020,Male,34,Private Sector/Self Employed,Yes,1300000,No,2017,4100,South Korea,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+95,Annapurna Circuit Short Trek,"
+$1,250    USD", 12 Days,Strenuous,5416 m,Hotel/Guesthouse,March - May & Sept - Nov.,12/23/2020,Female,26,Private Sector/Self Employed,Yes,1400000,No,2017,4140,Kuwait,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+96,Annapurna Luxury Trek,"
+$1,450    USD", 9 Days,Easy To Moderate,2012m,Hotel/Luxury Lodges,March - May & Setpt - Dec,8/20/2020,Male,28,Private Sector/Self Employed,Yes,700000,No,2017,4170,Kyrgyzstan,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+97,Annapurna Panorama Trek,"
+$860    USD", 9 Days,Easy,3210 m,Hotel/Teahouse,Jan - May & Sept - Dec,3/27/2022,Male,29,Private Sector/Self Employed,Yes,350000,No,2017,4180,Laos,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+98,Annapurna Tilicho Lake Trek,"
+$1,450    USD", 17 Days,Strenuous,5416 m,Hotel/Guesthouse,March - May & Sept - Nov,3/24/2022,Male,29,Private Sector/Self Employed,Yes,1100000,No,2017,4220,Lebanon,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+99,Short Annapurna Trek,"
+$590    USD", 5 Days,Easy,1990 m,Hotel/Lodges,Jan- May & Sept - Dec,7/15/2020,Female,29,Government Sector,Yes,600000,No,2017,4260,Lesot,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+100,Manaslu Circuit Trek,"
+$1,450    USD", 15 Days,Strenuous,5106 m,Hotel/Guesthouse,March - May & Sept - Nov,9/7/2021,Male,28,Private Sector/Self Employed,Yes,1300000,No,2017,4280,Latvia,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+101,Manaslu Circuit Trekking,"
+$1,380    USD", 14 Days,Moderate,5220 m,Hotel/Teahouses,March - May & Setpt - Nov,8/18/2021,Non-Binary,33,Private Sector/Self Employed,Yes,1500000,Yes,2017,4300,Liberia,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+102,Tsum Valley with Manaslu Trek,"
+$1,850    USD", 20 Days,Strenuous,5220 m,Hotel/Guesthouse,March - May & Sept - Nov,6/10/2023,Male,29,Private Sector/Self Employed,Yes,500000,No,2017,4340,Libya,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+103,Upper Mustang Trek,"
+$2,150    USD", 17 Days,Easy To Moderate,4210 m,Hotel/Guesthouse,March - May & Sept - Nov.,4/19/2023,Non-Binary,26,Private Sector/Self Employed,Yes,1400000,No,2017,4380,Liechtenstein,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+104,Upper Mustang Trek with Yara,"
+$2,300    USD", 18 Days,Easy To Moderate,4200 m,Hotel/Lodges,March - Nov,2/29/2020,Female,28,Private Sector/Self Employed,Yes,1150000,No,2017,4400,Lithuania,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+105,Upper Mustang Tiji Festival Trek,"
+$2,150    USD", 18 Days,Easy To Moderate,4210 m,Hotel/Teahouses,March - May & Sept - Nov,2/20/2020,Non-Binary,28,Private Sector/Self Employed,Yes,750000,No,2017,4420,Luxembourg,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+106,Langtang Valley Trek,"
+$750    USD", 10 Days,Easy To Moderate,5050 m,Hotel/Teahouse,March-May & Sept-Dec,1/4/2022,Male,34,Private Sector/Self Employed,Yes,1300000,No,2017,4460,Macau,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+107,Langtang Gosaikunda Trek,"
+$1,180    USD", 16 Days,Easy To Moderate,4600m,Hotel/Guesthouse,March - May & Sept - Dec,7/7/2021,Male,34,Private Sector/Self Employed,Yes,850000,No,2017,4461,Macau travel certificate,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+108,Tamang Heritage Trek,"
+$920    USD", 14 Days,Easy To Moderate,5050 m,Hotel/Guesthouse,March - May & Sept - Dec,1/29/2023,Transgender,26,Private Sector/Self Employed,Yes,1300000,No,2017,4500,Madagascar,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+109,Tamang Heritage Trail,"
+$750    USD", 8 Days,Easy,2607 m,Teahouses/Lodges,Jan - May & Sept - Dec,8/17/2020,Transgender,25,Private Sector/Self Employed,Yes,1700000,Yes,2017,4540,Malawi,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+110,Helambu Trek,"
+$780    USD", 9 Days,Easy,3650 m,Hotel/Guesthouse,Jan - May & Sept- Dec,6/10/2022,Male,31,Government Sector,Yes,400000,No,2017,4580,Malaysia,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+111,Annapurna Base Camp Trek  ," $1,499    USD", 11 Days,Moderate+Demanding,"4,130m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/9/2021,Female,28,Private Sector/Self Employed,Yes,800000,No,2017,4620,Maldives,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+112,Everest Base Camp Trek for Youths  ," $1,750    USD", 14 Days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/7/2023,Female,30,Private Sector/Self Employed,No,800000,No,2017,4660,Mari,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+113,Everest Base Camp Short Trek  ," $1,499    USD", 14 Days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/5/2023,Non-Binary,29,Private Sector/Self Employed,Yes,900000,Yes,2017,4700,Malta,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+114,Everest Base Camp Trek  ," $1,499    USD", 16 Days,Moderate+Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,7/22/2020,Male,29,Private Sector/Self Employed,Yes,500000,No,2017,4780,Mauritania,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+115,Annapurna Circuit Trek  ," $1,499    USD", 17 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/10/2022,Male,29,Private Sector/Self Employed,Yes,900000,No,2017,4800,Mauritius,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+116,Everest Base Camp Luxury Lodge Trek  ," $1,499    USD", 15 Days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/3/2020,Male,28,Private Sector/Self Employed,Yes,1150000,No,2017,4840,Mexico,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+117,Everest Base Camp Trek via Gokyo Lakes and Cho La Pass  ," $1,499    USD", 18 days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/17/2020,Female,31,Government Sector,Yes,400000,No,2017,4920,Monaco,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+118,Upper Mustang Trek  ," $1,499    USD", 17 Days,Moderate+Demanding,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/22/2022,Non-Binary,31,Government Sector,Yes,1500000,Yes,2017,4960,Mongolia,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+119,Everest Advanced Base Camp Trek from Tibet  ," $1,499    USD", 18 Days,Moderate+Demanding,"6,340m",Hotel/Guesthouse,Jan - May & Sept - Dec,6/28/2022,Transgender,31,Private Sector/Self Employed,Yes,500000,No,2017,4980,Moldoba,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+120,Gokyo Lakes and Gokyo Ri Trek  ," $1,499    USD", 14 Days,Moderate+Demanding,"5,357m",Hotel/Guesthouse,Jan - May & Sept - Dec,7/19/2022,Non-Binary,28,Private Sector/Self Employed,Yes,800000,No,2017,4990,Montenegro,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+121,Mardi Himal Trek  ," $1,499    USD", 10 Days,Moderate,"3,540m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/10/2022,Transgender,26,Private Sector/Self Employed,Yes,1400000,No,2017,5040,Morocco,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+122,Manaslu Circuit Trek  ," $1,499    USD", 18 Days,Demanding,"5,160m",Hotel/Guesthouse,Jan - May & Sept - Dec,8/28/2020,Transgender,32,Government Sector,Yes,800000,No,2017,5080,Mozambique,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+123,Langtang Valley Trek  ," $1,499    USD", 11 Days,Moderate+Demanding,"5,000m",Hotel/Guesthouse,Jan - May & Sept - Dec,6/16/2021,Transgender,27,Government Sector,Yes,850000,No,2017,5120,Oman,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+124,Annapurna Sanctuary Trek  ," $1,499    USD", 14 Days,Moderate+Demanding,"4,130m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/27/2023,Transgender,32,Government Sector,Yes,350000,No,2017,5160,Namibia,,,,,,,,
+125,Rara Lake Trek  ," $1,499    USD", 15 Days,Moderate,"3,055m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/21/2022,Non-Binary,29,Private Sector/Self Employed,Yes,500000,No,2017,5200,Naure,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+126,Everest High Passes Trek  ," $1,499    USD", 20 Days,Demanding,"5,546m",Hotel/Guesthouse,Jan - May & Sept - Dec,6/29/2022,Female,32,Government Sector,Yes,800000,Yes,2017,5240,Nepal,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+127,Kanchenjunga Circuit Trek  ," $1,499    USD", 25 Days,Demanding,"5,143m",Hotel/Guesthouse,Jan - May & Sept - Dec,11/1/2020,Non-Binary,27,Government Sector,Yes,750000,No,2017,5280,Netherlands,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+128,Everest View Trek  ," $1,499    USD", 12 Days,Light+Moderate,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,12/2/2021,Transgender,31,Private Sector/Self Employed,Yes,1350000,No,2017,5480,Vanuatsu,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+129,Tsum Valley Trek  ," $1,499    USD", 19 Days,Demanding,"6,000m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/28/2021,Female,29,Private Sector/Self Employed,Yes,1050000,No,2017,5540,new zealand,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+130,The Royal Trek  ," $1,499    USD", 9 Days,Moderate,"1,730m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/29/2021,Transgender,28,Private Sector/Self Employed,Yes,800000,No,2017,5580,Nicaragua,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+131,Makalu Base Camp Trek  ," $1,499    USD", 22 Days,Demanding+Challenging,"4,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,7/14/2020,Transgender,28,Private Sector/Self Employed,Yes,750000,No,2017,5620,Nigail,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+132,"Langtang, Gosainkunda and Helambu Trek  "," $1,499    USD", 17 Days,Moderate,"5,000m",Hotel/Guesthouse,Jan - May & Sept - Dec,10/9/2020,Female,28,Private Sector/Self Employed,Yes,1100000,No,2017,5660,Nigeria,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+133,Nar Phu Valley Trek  ," $1,499    USD", 19 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/10/2021,Transgender,25,Private Sector/Self Employed,Yes,1750000,No,2017,5780,Norway,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+134,Annapurna Circle Trek  ," $1,499    USD", 14 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/23/2022,Female,28,Private Sector/Self Employed,Yes,600000,Yes,2017,5830,Micronesia,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+135,Everest Kangshung Face Trek  ," $1,499    USD", 21 Days,Demanding+Challenging,"5,320m",Hotel/Guesthouse,Jan - May & Sept - Dec,10/28/2022,Transgender,28,Private Sector/Self Employed,Yes,800000,No,2017,5840,Marshall,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+136,Tsum Valley and Manaslu Trek  ," $1,499    USD", 27 Days,Demanding,"4,460m",Hotel/Guesthouse,Jan - May & Sept - Dec,9/8/2020,Non-Binary,29,Private Sector/Self Employed,Yes,500000,No,2017,5850,Palao,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+137,Khopra Ridge Community Trek  ," $1,499    USD", 13 Days,Moderate+Demanding,"4,500m",Hotel/Guesthouse,Jan - May & Sept - Dec,2/16/2023,Transgender,29,Private Sector/Self Employed,Yes,600000,Yes,2017,5860,Pakistan,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+138,Nepal Experience Tour  ," $1,499    USD", 12 Days,Light,"3,210m",Hotel/Guesthouse,Jan - May & Sept - Dec,7/4/2022,Transgender,28,Private Sector/Self Employed,Yes,1150000,No,2017,5910,Panama,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+139,Annapurna Circuit Trek with Tilicho Lake and Poon Hill  ," $1,499    USD", 20 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/14/2022,Non-Binary,35,Private Sector/Self Employed,No,800000,No,2017,5980,Papua New Guinea,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+140,Annapurna With Tilicho Lake Trek  ," $1,499    USD", 17 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,6/24/2023,Transgender,28,Private Sector/Self Employed,Yes,550000,No,2017,6000,Paraguay,,,,,,,,
+141,Langtang Valley Trek with Ganja la Pass  ," $1,499    USD", 14 Days,Demanding+Challenging,"5,122m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/8/2023,Transgender,25,Private Sector/Self Employed,Yes,1400000,No,2017,6040,Peru,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+142,Tamang Heritage Trek  ," $1,499    USD", 14 Days,Moderate,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/26/2022,Female,32,Government Sector,Yes,350000,No,2017,6080,Philippines,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+143,Manaslu and Annapurna Trek with Tilicho Lake  ," $1,499    USD", 25 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/17/2020,Non-Binary,26,Private Sector/Self Employed,Yes,1300000,No,2017,6160,Poland,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+144,Nepal Trekking and Everest Himalaya Heli Tour  ," $1,499    USD", 7 Days,Moderate,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,9/20/2020,Male,31,Private Sector/Self Employed,Yes,1250000,No,2017,6200,Portugal,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+145,Nepal Hiking and Culture Tour  ," $1,499    USD", 8 Days,Moderate,"1,550m",Hotel/Guesthouse,Jan - May & Sept - Dec,11/17/2021,Transgender,28,Private Sector/Self Employed,Yes,1150000,No,2017,6240,Guinea Visau,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+146,Annapurna Sunrise and Everest View Trek  ," $1,499    USD", 17 Days,Moderate,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,6/30/2022,Male,30,Private Sector/Self Employed,No,750000,No,2017,6260,East Timor Democratic Republic,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+147,Tenzing Hillary Everest Marathon  ," $1,499    USD", 20 Days,Demanding+Challenging,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,9/17/2020,Transgender,31,Government Sector,No,400000,No,2017,6340,Qatar,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+148,Everest Base Camp Trek,$1450    USD,16 Days,Moderate-Hard,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/31/2023,Non-Binary,25,Private Sector/Self Employed,Yes,1400000,No,2017,6420,Romania,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+149,Everest Kalapathar Trekking,$1390    USD,15 Days,Moderate-Hard,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,8/14/2021,Non-Binary,28,Private Sector/Self Employed,Yes,800000,No,2017,6430,Russia,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+150,Everest Panorama Trek,$1040    USD,10 Days,Easy-Moderate,"3,860m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/3/2022,Transgender,28,Private Sector/Self Employed,Yes,650000,No,2017,6460,Rwanda,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+151,Everest Base Camp Trek via Gokyo Lake,$1530    USD,19 Days,Moderate-Hard,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/27/2022,Non-Binary,29,Private Sector/Self Employed,Yes,1200000,No,2017,6590,St. Christopher Navis,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+152,Gokyo Lake Trek,$1190    USD,13 Days,Moderate,"5,357m",Hotel/Guesthouse,Jan - May & Sept - Dec,12/7/2021,Male,28,Private Sector/Self Employed,Yes,1200000,Yes,2017,6620,St. Lucia,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+153,Everest Base Camp Heli Trek,$3600    USD,9 Days,Moderate,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,10/28/2021,Female,25,Private Sector/Self Employed,No,600000,Yes,2017,6700,St. Vincent,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+154,Annapurna Circuit Trek,$1100    USD,19 Days,Moderate-Hard,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,9/7/2022,Female,28,Private Sector/Self Employed,Yes,700000,Yes,2017,6740,Sun Marino,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+155,Annapurna Base Camp Trek,$1090    USD,16 Days,Moderate,"4,130m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/19/2021,Transgender,34,Private Sector/Self Employed,Yes,1300000,No,2017,6780,Santa Principa,,,,,,,,
+156,Ghorepani Poon Hill Trek,$450    USD,10 Days,Easy,"3,210m",Hotel/Guesthouse,Jan - May & Sept - Dec,8/22/2021,Female,28,Private Sector/Self Employed,Yes,900000,Yes,2017,6820,Saudi Arabia,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+157,Upper Mustang Trek,$2100    USD,17 Days,Moderate-Hard,4200m,Hotel/Guesthouse,Jan - May & Sept - Dec,10/14/2022,Male,28,Private Sector/Self Employed,Yes,600000,No,2017,6860,Senegal,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+158,Mardi Himal Trek,$590    USD,9 Days,Easy-Moderate,"4,500m",Hotel/Guesthouse,Jan - May & Sept - Dec,9/6/2022,Female,31,Private Sector/Self Employed,Yes,1250000,Yes,2017,6880,Serbia,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+159,Langtang Valley Trekking,$690    USD,11 Days,Moderate,"4,773m",Hotel/Guesthouse,Jan - May & Sept - Dec,2/5/2022,Male,27,Government Sector,Yes,900000,No,2017,6900,Saechel,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+160,Manaslu Circuit Trek,$1190    USD,17 Days,Moderate-Hard,"5,220m",Hotel/Guesthouse,Jan - May & Sept - Dec,10/24/2022,Female,31,Government Sector,Yes,1200000,No,2017,6940,Sierra Leone,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+161,Annapurna Base Camp Trek,"
+$1,090   USD", 14 Days,Moderate,4210 m,Hotel/Guesthouse,March - May & Sept - Dec,7/30/2023,Non-Binary,34,Private Sector/Self Employed,No,1400000,No,2017,7020,Singapore,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+162,Annapurna Base Camp Short Trek,"
+$1,090   USD", 11 Days,Easy To Moderate,4210 m,Hotel/Teahouses,March - May & Sept - Dec,5/19/2023,Male,34,Private Sector/Self Employed,Yes,500000,No,2017,7030,Slovakia,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+163,Instant Annapurna Base Camp Trek,"
+$980   USD", 9 Days,Moderate,4230 m,Hotel/Guest Houses,March - May & Sept - Dec.,10/1/2022,Male,32,Government Sector,Yes,350000,No,2017,7040,Vietnam,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+164,Annapurna Base Camp Heli Trek,"
+$1,750   USD", 9 Days,Easy To Moderate,4210 m,Hotel/Teahouses,March - May & Sept - Dec,5/27/2023,Transgender,28,Government Sector,Yes,300000,No,2017,7050,Slovenia,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+165,Mardi Himal Trek,"
+$850   USD", 9 Days,Easy To Moderate,4200 m,Hotel/Guesthouses,March - May & Sept - Dec,12/31/2021,Non-Binary,33,Government Sector,Yes,1000000,No,2017,7060,Somalia,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+166,Mardi Himal Trekking,"
+$850   USD", 8 Days,Easy To Moderate,"4,200 m",Hotel/Guesthouse,March-May & Sept-Dec.,8/1/2023,Male,28,Private Sector/Self Employed,Yes,800000,No,2017,7100,Republic of South Africa,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+167,Classic Annapurna Circuit Trek,"
+$1,350   USD", 18 Days,Moderate,5416 m,Hotel/Teahouses,March - May & Sept - Nov,11/18/2022,Female,31,Government Sector,Yes,400000,No,2017,7160,Zimbabwe,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+168,Annapurna Circuit Trek,"
+$1,250   USD", 14 Days,Moderate,5416 m,Hotel/Teahouses,March-May & Sept-Dec,8/18/2021,Transgender,27,Government Sector,Yes,850000,No,2017,7240,Spain,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+169,Annapurna Circuit Short Trek,"
+$1,250   USD", 12 Days,Strenuous,5416 m,Hotel/Guesthouse,March - May & Sept - Nov.,2/9/2022,Non-Binary,25,Private Sector/Self Employed,No,600000,No,2017,7280,South Sudan,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+170,Annapurna Luxury Trek,"
+$1,450   USD", 9 Days,Easy To Moderate,2012m,Hotel/Luxury Lodges,March - May & Setpt - Dec,3/26/2022,Transgender,31,Private Sector/Self Employed,Yes,1350000,No,2017,7290,Sudan,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+171,Annapurna Panorama Trek,"
+$860   USD", 9 Days,Easy,3210 m,Hotel/Teahouse,Jan - May & Sept - Dec,9/19/2022,Transgender,28,Private Sector/Self Employed,Yes,900000,No,2017,7400,Slinum,,,,,,,,
+172,Annapurna Tilicho Lake Trek,"
+$1,450   USD", 17 Days,Strenuous,5416 m,Hotel/Guesthouse,March - May & Sept - Nov,2/8/2021,Male,27,Private Sector/Self Employed,No,600000,No,2017,7480,Swaji Land,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+173,Short Annapurna Trek,"
+$590   USD", 5 Days,Easy,1990 m,Hotel/Lodges,Jan- May & Sept - Dec,1/19/2022,Non-Binary,26,Private Sector/Self Employed,Yes,450000,No,2017,7520,Sweden,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+174,Manaslu Circuit Trek,"
+$1,450   USD", 15 Days,Strenuous,5106 m,Hotel/Guesthouse,March - May & Sept - Nov,8/17/2020,Transgender,34,Private Sector/Self Employed,Yes,700000,Yes,2017,7560,Switzerland,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+175,Manaslu Circuit Trekking,"
+$1,380   USD", 14 Days,Moderate,5220 m,Hotel/Teahouses,March - May & Setpt - Nov,1/20/2023,Non-Binary,30,Private Sector/Self Employed,No,800000,No,2017,7600,Syria,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+176,Tsum Valley with Manaslu Trek,"
+$1,850   USD", 20 Days,Strenuous,5220 m,Hotel/Guesthouse,March - May & Sept - Nov,7/13/2023,Female,34,Private Sector/Self Employed,Yes,1050000,No,2017,7620,Tajikistan,,,,,,,,
+177,Upper Mustang Trek,"
+$2,150   USD", 17 Days,Easy To Moderate,4210 m,Hotel/Guesthouse,March - May & Sept - Nov.,5/10/2022,Female,28,Private Sector/Self Employed,Yes,1250000,No,2017,7640,Thailand,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+178,Upper Mustang Trek with Yara,"
+$2,300   USD", 18 Days,Easy To Moderate,4200 m,Hotel/Lodges,March - Nov,9/12/2022,Male,32,Government Sector,Yes,350000,No,2017,7680,Togo,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+179,Upper Mustang Tiji Festival Trek,"
+$2,150   USD", 18 Days,Easy To Moderate,4210 m,Hotel/Teahouses,March - May & Sept - Nov,3/5/2023,Female,26,Private Sector/Self Employed,Yes,1250000,No,2017,7760,Tonga,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+180,Langtang Valley Trek,"
+$750   USD", 10 Days,Easy To Moderate,5050 m,Hotel/Teahouse,March-May & Sept-Dec,6/5/2021,Non-Binary,28,Private Sector/Self Employed,Yes,750000,Yes,2017,7800,Republic of Trinidad and Tobago,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+181,Langtang Gosaikunda Trek,"
+$1,180   USD", 16 Days,Easy To Moderate,4600m,Hotel/Guesthouse,March - May & Sept - Dec,3/1/2023,Female,26,Private Sector/Self Employed,Yes,1300000,No,2017,7840,United Arab Emirates,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+182,Tamang Heritage Trek,"
+$920   USD", 14 Days,Easy To Moderate,5050 m,Hotel/Guesthouse,March - May & Sept - Dec,8/10/2022,Male,35,Private Sector/Self Employed,No,800000,Yes,2017,7880,Tunisia,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+183,Tamang Heritage Trail,"
+$750   USD", 8 Days,Easy,2607 m,Teahouses/Lodges,Jan - May & Sept - Dec,11/30/2020,Transgender,25,Private Sector/Self Employed,No,1700000,Yes,2017,7920,Turkey,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+184,Helambu Trek,"
+$780   USD", 9 Days,Easy,3650 m,Hotel/Guesthouse,Jan - May & Sept- Dec,6/17/2023,Transgender,25,Government Sector,Yes,750000,No,2017,7950,Torque menistan,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+185,Annapurna Base Camp Trek  ," $1,499   USD", 11 Days,Moderate+Demanding,"4,130m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/15/2020,Transgender,28,Government Sector,Yes,300000,No,2017,7980,Tsubaru,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+186,Everest Base Camp Trek for Youths  ," $1,750   USD", 14 Days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,9/9/2020,Male,28,Private Sector/Self Employed,Yes,500000,No,2017,8000,Uganda,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+187,Everest Base Camp Short Trek  ," $1,499   USD", 14 Days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,9/24/2022,Non-Binary,28,Private Sector/Self Employed,Yes,650000,No,2017,8040,Ukraine,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+188,Everest Base Camp Trek  ," $1,499   USD", 16 Days,Moderate+Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,2/22/2021,Male,26,Government Sector,Yes,500000,No,2017,8070,Former Macedonia Yugoslavia Republic,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+189,Annapurna Circuit Trek  ," $1,499   USD", 17 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,8/2/2020,Non-Binary,26,Private Sector/Self Employed,Yes,1400000,No,2017,8180,Egypt,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+190,Everest Base Camp Luxury Lodge Trek  ," $1,499   USD", 15 Days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/12/2020,Female,27,Government Sector,Yes,900000,No,2017,8260,British,,,,,,,,
+191,Everest Base Camp Trek via Gokyo Lakes and Cho La Pass  ," $1,499   USD", 18 days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/31/2020,Transgender,30,Private Sector/Self Employed,No,650000,No,2017,8340,Tanzania,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+192,Upper Mustang Trek  ," $1,499   USD", 17 Days,Moderate+Demanding,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/12/2023,Non-Binary,28,Private Sector/Self Employed,Yes,800000,No,2017,8400,united states of america,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+193,Everest Advanced Base Camp Trek from Tibet  ," $1,499   USD", 18 Days,Moderate+Demanding,"6,340m",Hotel/Guesthouse,Jan - May & Sept - Dec,9/13/2020,Male,34,Private Sector/Self Employed,No,1300000,No,2017,8540,Burkina Faso,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+194,Gokyo Lakes and Gokyo Ri Trek  ," $1,499   USD", 14 Days,Moderate+Demanding,"5,357m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/4/2023,Non-Binary,33,Government Sector,Yes,1100000,No,2017,8580,Uruguay,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+195,Mardi Himal Trek  ," $1,499   USD", 10 Days,Moderate,"3,540m",Hotel/Guesthouse,Jan - May & Sept - Dec,11/27/2021,Transgender,25,Private Sector/Self Employed,Yes,1400000,Yes,2017,8600,Uzbekistan,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+196,Manaslu Circuit Trek  ," $1,499   USD", 18 Days,Demanding,"5,160m",Hotel/Guesthouse,Jan - May & Sept - Dec,10/5/2020,Non-Binary,34,Private Sector/Self Employed,Yes,1000000,No,2017,8620,Venezuela,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+197,Langtang Valley Trek  ," $1,499   USD", 11 Days,Moderate+Demanding,"5,000m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/11/2022,Transgender,29,Private Sector/Self Employed,Yes,1150000,Yes,2017,8820,Samoa Independent State,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+198,Annapurna Sanctuary Trek  ," $1,499   USD", 14 Days,Moderate+Demanding,"4,130m",Hotel/Guesthouse,Jan - May & Sept - Dec,2/10/2020,Transgender,25,Private Sector/Self Employed,No,1350000,No,2017,8870,Yemen,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+199,Rara Lake Trek  ," $1,499   USD", 15 Days,Moderate,"3,055m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/3/2020,Female,30,Private Sector/Self Employed,No,1450000,Yes,2017,8940,Zambia,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+200,Everest High Passes Trek  ," $1,499   USD", 20 Days,Demanding,"5,546m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/15/2022,Male,27,Government Sector,Yes,1050000,No,2017,9010,Kosovo,,,,,,,,
+201,Kanchenjunga Circuit Trek  ," $1,499   USD", 25 Days,Demanding,"5,143m",Hotel/Guesthouse,Jan - May & Sept - Dec,10/10/2022,Male,31,Private Sector/Self Employed,Yes,1400000,No,2017,9990,others,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+202,Everest View Trek  ," $1,499   USD", 12 Days,Light+Moderate,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,8/7/2023,Female,28,Private Sector/Self Employed,Yes,600000,No,2016,0,total,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+203,Tsum Valley Trek  ," $1,499   USD", 19 Days,Demanding,"6,000m",Hotel/Guesthouse,Jan - May & Sept - Dec,2/5/2022,Non-Binary,28,Private Sector/Self Employed,Yes,1100000,No,2016,40,Afghanistan,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+204,The Royal Trek  ," $1,499   USD", 9 Days,Moderate,"1,730m",Hotel/Guesthouse,Jan - May & Sept - Dec,9/18/2020,Non-Binary,32,Government Sector,Yes,900000,Yes,2016,80,Albania,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+205,Makalu Base Camp Trek  ," $1,499   USD", 22 Days,Demanding+Challenging,"4,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,12/11/2022,Male,29,Private Sector/Self Employed,Yes,1150000,No,2016,120,Algeria,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+206,"Langtang, Gosainkunda and Helambu Trek  "," $1,499   USD", 17 Days,Moderate,"5,000m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/3/2021,Female,25,Private Sector/Self Employed,No,1150000,No,2016,200,Andra,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+207,Nar Phu Valley Trek  ," $1,499   USD", 19 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/21/2022,Transgender,31,Government Sector,No,350000,No,2016,240,Angola,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+208,Annapurna Circle Trek  ," $1,499   USD", 14 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,6/16/2022,Transgender,29,Private Sector/Self Employed,Yes,1350000,No,2016,280,Antigua Berbuda,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+209,Everest Kangshung Face Trek  ," $1,499   USD", 21 Days,Demanding+Challenging,"5,320m",Hotel/Guesthouse,Jan - May & Sept - Dec,12/31/2020,Non-Binary,25,Private Sector/Self Employed,No,1700000,Yes,2016,310,Azerbaijan,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+210,Tsum Valley and Manaslu Trek  ," $1,499   USD", 27 Days,Demanding,"4,460m",Hotel/Guesthouse,Jan - May & Sept - Dec,11/23/2022,Male,28,Private Sector/Self Employed,Yes,1200000,Yes,2016,320,Argentina,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+211,Khopra Ridge Community Trek  ," $1,499   USD", 13 Days,Moderate+Demanding,"4,500m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/26/2022,Male,27,Private Sector/Self Employed,No,450000,No,2016,360,Australia,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+212,Nepal Experience Tour  ," $1,499   USD", 12 Days,Light,"3,210m",Hotel/Guesthouse,Jan - May & Sept - Dec,11/17/2022,Transgender,28,Private Sector/Self Employed,Yes,750000,No,2016,400,Austria,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+213,Annapurna Circuit Trek with Tilicho Lake and Poon Hill  ," $1,499   USD", 20 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,12/20/2020,Transgender,26,Private Sector/Self Employed,Yes,1400000,Yes,2016,440,Bahamas,,,,,,,,
+214,Annapurna With Tilicho Lake Trek  ," $1,499   USD", 17 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/22/2022,Female,27,Government Sector,Yes,850000,No,2016,480,Barrane,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+215,Langtang Valley Trek with Ganja la Pass  ," $1,499   USD", 14 Days,Demanding+Challenging,"5,122m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/15/2022,Male,33,Government Sector,Yes,1100000,No,2016,500,Bangladesh,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+216,Tamang Heritage Trek  ," $1,499   USD", 14 Days,Moderate,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,8/9/2020,Male,34,Private Sector/Self Employed,Yes,1050000,No,2016,510,Armenia,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+217,Manaslu and Annapurna Trek with Tilicho Lake  ," $1,499   USD", 25 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/5/2022,Non-Binary,28,Private Sector/Self Employed,Yes,800000,No,2016,520,Barbados,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+218,Nepal Trekking and Everest Himalaya Heli Tour  ," $1,499   USD", 7 Days,Moderate,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/13/2022,Male,26,Private Sector/Self Employed,Yes,1500000,Yes,2016,560,Belgium,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+219,Nepal Hiking and Culture Tour  ," $1,499   USD", 8 Days,Moderate,"1,550m",Hotel/Guesthouse,Jan - May & Sept - Dec,6/27/2023,Female,31,Private Sector/Self Employed,Yes,1250000,No,2016,640,Bhutan,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+220,Annapurna Sunrise and Everest View Trek  ," $1,499   USD", 17 Days,Moderate,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,2/1/2022,Female,35,Private Sector/Self Employed,No,800000,No,2016,680,Bolivia,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+221,Tenzing Hillary Everest Marathon  ," $1,499   USD", 20 Days,Demanding+Challenging,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,10/21/2022,Transgender,28,Private Sector/Self Employed,Yes,1200000,No,2016,700,Bosnia Herzegovna,,,,,,,,
+222,Everest Base Camp Trek,$1450   USD,16 Days,Moderate-Hard,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,6/7/2023,Non-Binary,28,Private Sector/Self Employed,Yes,1200000,No,2016,720,Botwana,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+223,Everest Kalapathar Trekking,$1390   USD,15 Days,Moderate-Hard,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/25/2020,Transgender,30,Private Sector/Self Employed,No,650000,No,2016,760,Brazil,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+224,Everest Panorama Trek,$1040   USD,10 Days,Easy-Moderate,"3,860m",Hotel/Guesthouse,Jan - May & Sept - Dec,2/21/2022,Male,31,Private Sector/Self Employed,Yes,1100000,Yes,2016,840,Belize,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+225,Everest Base Camp Trek via Gokyo Lake,$1530   USD,19 Days,Moderate-Hard,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,11/4/2022,Female,31,Private Sector/Self Employed,Yes,1250000,No,2016,900,Solomon,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+226,Gokyo Lake Trek,$1190   USD,13 Days,Moderate,"5,357m",Hotel/Guesthouse,Jan - May & Sept - Dec,6/13/2020,Male,34,Government Sector,Yes,1300000,No,2016,960,Brunei,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+227,Everest Base Camp Heli Trek,$3600   USD,9 Days,Moderate,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,7/3/2021,Male,34,Private Sector/Self Employed,Yes,1300000,No,2016,1000,Bulgaria,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+228,Annapurna Circuit Trek,$1100   USD,19 Days,Moderate-Hard,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/15/2022,Female,34,Private Sector/Self Employed,Yes,1000000,No,2016,1040,Myanmar,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+229,Annapurna Base Camp Trek,$1090   USD,16 Days,Moderate,"4,130m",Hotel/Guesthouse,Jan - May & Sept - Dec,8/18/2021,Male,34,Private Sector/Self Employed,Yes,1000000,No,2016,1080,Brush,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+230,Ghorepani Poon Hill Trek,$450   USD,10 Days,Easy,"3,210m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/26/2020,Male,29,Private Sector/Self Employed,Yes,900000,Yes,2016,1120,Belarus,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+231,Upper Mustang Trek,$2100   USD,17 Days,Moderate-Hard,4200m,Hotel/Guesthouse,Jan - May & Sept - Dec,3/13/2022,Non-Binary,31,Government Sector,Yes,1200000,No,2016,1160,Cambodia,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+232,Mardi Himal Trek,$590   USD,9 Days,Easy-Moderate,"4,500m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/25/2020,Male,28,Private Sector/Self Employed,Yes,1250000,No,2016,1200,Cameroon,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+233,Langtang Valley Trekking,$690   USD,11 Days,Moderate,"4,773m",Hotel/Guesthouse,Jan - May & Sept - Dec,7/16/2022,Transgender,31,Government Sector,Yes,1200000,No,2016,1240,Canada,,,,,,,,
+234,Manaslu Circuit Trek,$1190   USD,17 Days,Moderate-Hard,"5,220m",Hotel/Guesthouse,Jan - May & Sept - Dec,2/26/2022,Female,34,Private Sector/Self Employed,Yes,1300000,No,2016,1320,Carbo verde,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+235,Annapurna Base Camp Trek,"
+$1,090  USD", 14 Days,Moderate,4210 m,Hotel/Guesthouse,March - May & Sept - Dec,7/12/2023,Non-Binary,30,Private Sector/Self Employed,No,550000,No,2016,1400,Central Africa,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+236,Annapurna Base Camp Short Trek,"
+$1,090  USD", 11 Days,Easy To Moderate,4210 m,Hotel/Teahouses,March - May & Sept - Dec,5/10/2021,Non-Binary,26,Private Sector/Self Employed,Yes,1500000,Yes,2016,1440,Sri Lanka,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+237,Instant Annapurna Base Camp Trek,"
+$980  USD", 9 Days,Moderate,4230 m,Hotel/Guest Houses,March - May & Sept - Dec.,11/30/2022,Male,30,Private Sector/Self Employed,No,500000,No,2016,1480,Chad,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+238,Annapurna Base Camp Heli Trek,"
+$1,750  USD", 9 Days,Easy To Moderate,4210 m,Hotel/Teahouses,March - May & Sept - Dec,5/7/2022,Non-Binary,29,Private Sector/Self Employed,Yes,600000,No,2016,1520,Chile,,,,,,,,
+239,Mardi Himal Trek,"
+$850  USD", 9 Days,Easy To Moderate,4200 m,Hotel/Guesthouses,March - May & Sept - Dec,9/4/2022,Non-Binary,26,Private Sector/Self Employed,Yes,1250000,No,2016,1560,China,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+240,Mardi Himal Trekking,"
+$850  USD", 8 Days,Easy To Moderate,"4,200 m",Hotel/Guesthouse,March-May & Sept-Dec.,2/4/2022,Transgender,27,Private Sector/Self Employed,No,350000,No,2016,1580,Taiwan,,,,,,,,
+241,Classic Annapurna Circuit Trek,"
+$1,350  USD", 18 Days,Moderate,5416 m,Hotel/Teahouses,March - May & Sept - Nov,1/27/2021,Female,35,Private Sector/Self Employed,No,800000,No,2016,1700,Columbia,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+242,Annapurna Circuit Trek,"
+$1,250  USD", 14 Days,Moderate,5416 m,Hotel/Teahouses,March-May & Sept-Dec,12/18/2022,Male,33,Government Sector,Yes,400000,No,2016,1740,Komoro,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+243,Annapurna Circuit Short Trek,"
+$1,250  USD", 12 Days,Strenuous,5416 m,Hotel/Guesthouse,March - May & Sept - Nov.,7/21/2022,Female,26,Private Sector/Self Employed,Yes,750000,No,2016,1780,Congo,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+244,Annapurna Luxury Trek,"
+$1,450  USD", 9 Days,Easy To Moderate,2012m,Hotel/Luxury Lodges,March - May & Setpt - Dec,4/5/2022,Male,27,Government Sector,Yes,500000,No,2016,1781,Zaire,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+245,Annapurna Panorama Trek,"
+$860  USD", 9 Days,Easy,3210 m,Hotel/Teahouse,Jan - May & Sept - Dec,5/27/2020,Transgender,28,Private Sector/Self Employed,Yes,1150000,No,2016,1800,Congo Democratic Republic,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+246,Annapurna Tilicho Lake Trek,"
+$1,450  USD", 17 Days,Strenuous,5416 m,Hotel/Guesthouse,March - May & Sept - Nov,4/11/2023,Male,31,Government Sector,No,350000,No,2016,1880,Costa Rica,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+247,Short Annapurna Trek,"
+$590  USD", 5 Days,Easy,1990 m,Hotel/Lodges,Jan- May & Sept - Dec,2/29/2020,Transgender,27,Government Sector,Yes,1050000,Yes,2016,1910,Croatia,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+248,Manaslu Circuit Trek,"
+$1,450  USD", 15 Days,Strenuous,5106 m,Hotel/Guesthouse,March - May & Sept - Nov,7/2/2021,Male,34,Government Sector,Yes,1300000,No,2016,1920,Cuba,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+249,Manaslu Circuit Trekking,"
+$1,380  USD", 14 Days,Moderate,5220 m,Hotel/Teahouses,March - May & Setpt - Nov,8/30/2021,Male,28,Private Sector/Self Employed,Yes,1150000,No,2016,1960,Cyprus,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+250,Tsum Valley with Manaslu Trek,"
+$1,850  USD", 20 Days,Strenuous,5220 m,Hotel/Guesthouse,March - May & Sept - Nov,5/15/2023,Transgender,34,Private Sector/Self Employed,Yes,1000000,No,2016,2030,Czech Republic,,,,,,,,
+251,Upper Mustang Trek,"
+$2,150  USD", 17 Days,Easy To Moderate,4210 m,Hotel/Guesthouse,March - May & Sept - Nov.,7/26/2023,Female,28,Government Sector,Yes,300000,No,2016,2040,Benan,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+252,Upper Mustang Trek with Yara,"
+$2,300  USD", 18 Days,Easy To Moderate,4200 m,Hotel/Lodges,March - Nov,3/17/2023,Transgender,29,Private Sector/Self Employed,Yes,1350000,No,2016,2080,Denmark,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+253,Upper Mustang Tiji Festival Trek,"
+$2,150  USD", 18 Days,Easy To Moderate,4210 m,Hotel/Teahouses,March - May & Sept - Nov,5/19/2021,Female,28,Private Sector/Self Employed,Yes,1400000,No,2016,2120,Dominica,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+254,Langtang Valley Trek,"
+$750  USD", 10 Days,Easy To Moderate,5050 m,Hotel/Teahouse,March-May & Sept-Dec,6/19/2023,Transgender,28,Government Sector,Yes,1200000,No,2016,2140,dominican republic,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+255,Langtang Gosaikunda Trek,"
+$1,180  USD", 16 Days,Easy To Moderate,4600m,Hotel/Guesthouse,March - May & Sept - Dec,1/4/2020,Transgender,34,Private Sector/Self Employed,Yes,1500000,Yes,2016,2180,Ecuador,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+256,Tamang Heritage Trek,"
+$920  USD", 14 Days,Easy To Moderate,5050 m,Hotel/Guesthouse,March - May & Sept - Dec,2/6/2021,Transgender,34,Government Sector,Yes,1300000,No,2016,2220,El Salvador,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+257,Tamang Heritage Trail,"
+$750  USD", 8 Days,Easy,2607 m,Teahouses/Lodges,Jan - May & Sept - Dec,8/24/2020,Male,33,Private Sector/Self Employed,Yes,550000,No,2016,2260,Equatorial guinea,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+258,Helambu Trek,"
+$780  USD", 9 Days,Easy,3650 m,Hotel/Guesthouse,Jan - May & Sept- Dec,9/20/2021,Transgender,29,Private Sector/Self Employed,Yes,900000,Yes,2016,2310,Ethiopia,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+259,Annapurna Base Camp Trek  ," $1,499  USD", 11 Days,Moderate+Demanding,"4,130m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/20/2020,Non-Binary,33,Government Sector,Yes,400000,No,2016,2320,Eritria,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+260,Everest Base Camp Trek for Youths  ," $1,750  USD", 14 Days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,7/31/2023,Male,26,Private Sector/Self Employed,Yes,1400000,No,2016,2330,Estonia,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+261,Everest Base Camp Short Trek  ," $1,499  USD", 14 Days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/31/2020,Transgender,28,Private Sector/Self Employed,Yes,1100000,No,2016,2390,Georgia,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+262,Everest Base Camp Trek  ," $1,499  USD", 16 Days,Moderate+Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,10/29/2020,Non-Binary,26,Private Sector/Self Employed,Yes,750000,No,2016,2420,Fiji,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+263,Annapurna Circuit Trek  ," $1,499  USD", 17 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/27/2021,Non-Binary,35,Private Sector/Self Employed,No,800000,No,2016,2460,Finland,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+264,Everest Base Camp Luxury Lodge Trek  ," $1,499  USD", 15 Days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/2/2023,Non-Binary,29,Private Sector/Self Employed,Yes,350000,No,2016,2500,France,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+265,Everest Base Camp Trek via Gokyo Lakes and Cho La Pass  ," $1,499  USD", 18 days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,11/19/2022,Transgender,27,Government Sector,Yes,850000,Yes,2016,2620,Jibuti,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+266,Upper Mustang Trek  ," $1,499  USD", 17 Days,Moderate+Demanding,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,10/13/2021,Transgender,31,Government Sector,Yes,400000,No,2016,2660,Gabon,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+267,Everest Advanced Base Camp Trek from Tibet  ," $1,499  USD", 18 Days,Moderate+Demanding,"6,340m",Hotel/Guesthouse,Jan - May & Sept - Dec,2/4/2020,Non-Binary,33,Government Sector,Yes,1100000,No,2016,2700,Gambia,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+268,Gokyo Lakes and Gokyo Ri Trek  ," $1,499  USD", 14 Days,Moderate+Demanding,"5,357m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/24/2020,Female,34,Private Sector/Self Employed,Yes,500000,No,2016,2750,Palestine,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+269,Mardi Himal Trek  ," $1,499  USD", 10 Days,Moderate,"3,540m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/23/2021,Transgender,27,Private Sector/Self Employed,No,800000,No,2016,2760,Germany,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+270,Manaslu Circuit Trek  ," $1,499  USD", 18 Days,Demanding,"5,160m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/28/2023,Male,34,Government Sector,Yes,1300000,No,2016,2880,Ghana,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+271,Langtang Valley Trek  ," $1,499  USD", 11 Days,Moderate+Demanding,"5,000m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/2/2023,Male,35,Government Sector,Yes,900000,No,2016,2960,Kiribass,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+272,Annapurna Sanctuary Trek  ," $1,499  USD", 14 Days,Moderate+Demanding,"4,130m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/11/2020,Transgender,28,Private Sector/Self Employed,Yes,700000,No,2016,3000,Greece,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+273,Rara Lake Trek  ," $1,499  USD", 15 Days,Moderate,"3,055m",Hotel/Guesthouse,Jan - May & Sept - Dec,12/1/2020,Non-Binary,34,Private Sector/Self Employed,Yes,1000000,Yes,2016,3080,Grenada,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+274,Everest High Passes Trek  ," $1,499  USD", 20 Days,Demanding,"5,546m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/24/2022,Non-Binary,32,Government Sector,Yes,850000,No,2016,3200,Guatemala,,,,,,,,
+275,Kanchenjunga Circuit Trek  ," $1,499  USD", 25 Days,Demanding,"5,143m",Hotel/Guesthouse,Jan - May & Sept - Dec,10/27/2022,Female,26,Private Sector/Self Employed,Yes,1400000,No,2016,3240,Guinea,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+276,Everest View Trek  ," $1,499  USD", 12 Days,Light+Moderate,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,7/6/2020,Female,29,Private Sector/Self Employed,Yes,1050000,No,2016,3280,Gaiana,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+277,Tsum Valley Trek  ," $1,499  USD", 19 Days,Demanding,"6,000m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/1/2021,Female,31,Private Sector/Self Employed,Yes,950000,Yes,2016,3320,Haiti,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+278,The Royal Trek  ," $1,499  USD", 9 Days,Moderate,"1,730m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/27/2023,Transgender,32,Government Sector,Yes,800000,No,2016,3400,Honduras,,,,,,,,
+279,Makalu Base Camp Trek  ," $1,499  USD", 22 Days,Demanding+Challenging,"4,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,12/29/2021,Transgender,32,Government Sector,Yes,350000,No,2016,3440,China (Hong Kong),Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+280,"Langtang, Gosainkunda and Helambu Trek  "," $1,499  USD", 17 Days,Moderate,"5,000m",Hotel/Guesthouse,Jan - May & Sept - Dec,6/14/2022,Transgender,32,Government Sector,Yes,800000,Yes,2016,3441,Hong Kong DI,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+281,Nar Phu Valley Trek  ," $1,499  USD", 19 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/10/2023,Male,26,Private Sector/Self Employed,Yes,750000,No,2016,3442,Hong Kong SAR,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+282,Annapurna Circle Trek  ," $1,499  USD", 14 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,12/23/2021,Female,26,Private Sector/Self Employed,Yes,1400000,No,2016,3480,Hungary,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+283,Everest Kangshung Face Trek  ," $1,499  USD", 21 Days,Demanding+Challenging,"5,320m",Hotel/Guesthouse,Jan - May & Sept - Dec,11/29/2020,Non-Binary,26,Private Sector/Self Employed,Yes,600000,Yes,2016,3520,Iceland,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+284,Tsum Valley and Manaslu Trek  ," $1,499  USD", 27 Days,Demanding,"4,460m",Hotel/Guesthouse,Jan - May & Sept - Dec,12/16/2021,Female,28,Private Sector/Self Employed,Yes,750000,No,2016,3560,India,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+285,Khopra Ridge Community Trek  ," $1,499  USD", 13 Days,Moderate+Demanding,"4,500m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/19/2023,Non-Binary,33,Private Sector/Self Employed,Yes,750000,No,2016,3600,Indonesia,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+286,Nepal Experience Tour  ," $1,499  USD", 12 Days,Light,"3,210m",Hotel/Guesthouse,Jan - May & Sept - Dec,2/20/2022,Non-Binary,28,Private Sector/Self Employed,Yes,600000,No,2016,3640,Iran,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+287,Annapurna Circuit Trek with Tilicho Lake and Poon Hill  ," $1,499  USD", 20 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,7/26/2022,Female,29,Private Sector/Self Employed,Yes,1200000,No,2016,3680,Iraq,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+288,Annapurna With Tilicho Lake Trek  ," $1,499  USD", 17 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,12/9/2020,Male,29,Private Sector/Self Employed,Yes,1100000,No,2016,3720,Ireland,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+289,Langtang Valley Trek with Ganja la Pass  ," $1,499  USD", 14 Days,Demanding+Challenging,"5,122m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/25/2021,Non-Binary,26,Private Sector/Self Employed,Yes,500000,No,2016,3760,Israel,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+290,Tamang Heritage Trek  ," $1,499  USD", 14 Days,Moderate,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,6/17/2023,Non-Binary,32,Government Sector,Yes,900000,No,2016,3800,Italy,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+291,Manaslu and Annapurna Trek with Tilicho Lake  ," $1,499  USD", 25 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/18/2020,Transgender,34,Private Sector/Self Employed,Yes,1300000,Yes,2016,3840,Court Jiboire,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+292,Nepal Trekking and Everest Himalaya Heli Tour  ," $1,499  USD", 7 Days,Moderate,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/18/2022,Female,27,Government Sector,Yes,850000,No,2016,3880,Jamaica,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+293,Nepal Hiking and Culture Tour  ," $1,499  USD", 8 Days,Moderate,"1,550m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/23/2021,Male,31,Private Sector/Self Employed,Yes,1250000,No,2016,3980,Kazakhstan,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+294,Annapurna Sunrise and Everest View Trek  ," $1,499  USD", 17 Days,Moderate,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,9/14/2020,Male,29,Private Sector/Self Employed,Yes,1200000,No,2016,4000,Jordan,,,,,,,,
+295,Tenzing Hillary Everest Marathon  ," $1,499  USD", 20 Days,Demanding+Challenging,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,12/30/2020,Non-Binary,28,Private Sector/Self Employed,Yes,550000,No,2016,4040,Kenya,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+296,Everest Base Camp Trek,$1450  USD,16 Days,Moderate-Hard,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/22/2020,Female,32,Government Sector,Yes,350000,No,2016,4080,north korea,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+297,Everest Kalapathar Trekking,$1390  USD,15 Days,Moderate-Hard,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/17/2022,Transgender,35,Private Sector/Self Employed,No,800000,No,2016,4100,South Korea,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+298,Everest Panorama Trek,$1040  USD,10 Days,Easy-Moderate,"3,860m",Hotel/Guesthouse,Jan - May & Sept - Dec,10/11/2020,Female,25,Private Sector/Self Employed,No,1700000,Yes,2016,4140,Kuwait,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+299,Everest Base Camp Trek via Gokyo Lake,$1530  USD,19 Days,Moderate-Hard,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/7/2021,Female,27,Private Sector/Self Employed,No,450000,No,2016,4170,Kyrgyzstan,,,,,,,,
+300,Gokyo Lake Trek,$1190  USD,13 Days,Moderate,"5,357m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/17/2020,Non-Binary,32,Government Sector,Yes,900000,No,2016,4180,Laos,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+301,Everest Base Camp Heli Trek,$3600  USD,9 Days,Moderate,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,2/17/2022,Female,27,Government Sector,Yes,850000,No,2016,4220,Lebanon,,,,,,,,
+302,Annapurna Circuit Trek,$1100  USD,19 Days,Moderate-Hard,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,6/10/2021,Female,34,Private Sector/Self Employed,Yes,700000,No,2016,4260,Lesot,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+303,Annapurna Base Camp Trek,$1090  USD,16 Days,Moderate,"4,130m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/21/2023,Male,31,Government Sector,No,300000,No,2016,4280,Latvia,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+304,Ghorepani Poon Hill Trek,$450  USD,10 Days,Easy,"3,210m",Hotel/Guesthouse,Jan - May & Sept - Dec,12/21/2022,Non-Binary,34,Private Sector/Self Employed,Yes,1050000,No,2016,4300,Liberia,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+305,Upper Mustang Trek,$2100  USD,17 Days,Moderate-Hard,4200m,Hotel/Guesthouse,Jan - May & Sept - Dec,4/8/2022,Transgender,26,Private Sector/Self Employed,Yes,1250000,No,2016,4340,Libya,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+306,Mardi Himal Trek,$590  USD,9 Days,Easy-Moderate,"4,500m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/5/2023,Female,33,Government Sector,Yes,650000,No,2016,4380,Liechtenstein,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+307,Langtang Valley Trekking,$690  USD,11 Days,Moderate,"4,773m",Hotel/Guesthouse,Jan - May & Sept - Dec,8/11/2023,Transgender,28,Private Sector/Self Employed,Yes,1150000,No,2016,4400,Lithuania,,,,,,,,
+308,Manaslu Circuit Trek,$1190  USD,17 Days,Moderate-Hard,"5,220m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/12/2023,Female,34,Private Sector/Self Employed,Yes,1000000,No,2016,4420,Luxembourg,,,,,,,,
+309,Annapurna Base Camp Trek,"
+$1,090 USD", 14 Days,Moderate,4210 m,Hotel/Guesthouse,March - May & Sept - Dec,5/10/2021,Non-Binary,33,Government Sector,Yes,650000,No,2016,4460,Macau,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+310,Annapurna Base Camp Short Trek,"
+$1,090 USD", 11 Days,Easy To Moderate,4210 m,Hotel/Teahouses,March - May & Sept - Dec,10/4/2020,Female,30,Private Sector/Self Employed,No,550000,No,2016,4461,Macau travel certificate,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+311,Instant Annapurna Base Camp Trek,"
+$980 USD", 9 Days,Moderate,4230 m,Hotel/Guest Houses,March - May & Sept - Dec.,12/18/2022,Transgender,34,Private Sector/Self Employed,Yes,1500000,Yes,2016,4500,Madagascar,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+312,Annapurna Base Camp Heli Trek,"
+$1,750 USD", 9 Days,Easy To Moderate,4210 m,Hotel/Teahouses,March - May & Sept - Dec,6/24/2022,Non-Binary,32,Government Sector,Yes,850000,No,2016,4540,Malawi,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+313,Mardi Himal Trek,"
+$850 USD", 9 Days,Easy To Moderate,4200 m,Hotel/Guesthouses,March - May & Sept - Dec,1/28/2020,Male,25,Private Sector/Self Employed,No,1150000,No,2016,4580,Malaysia,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+314,Mardi Himal Trekking,"
+$850 USD", 8 Days,Easy To Moderate,"4,200 m",Hotel/Guesthouse,March-May & Sept-Dec.,1/24/2022,Transgender,26,Private Sector/Self Employed,Yes,1400000,No,2016,4620,Maldives,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+315,Classic Annapurna Circuit Trek,"
+$1,350 USD", 18 Days,Moderate,5416 m,Hotel/Teahouses,March - May & Sept - Nov,8/20/2020,Male,28,Government Sector,Yes,300000,No,2016,4660,Mari,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+316,Annapurna Circuit Trek,"
+$1,250 USD", 14 Days,Moderate,5416 m,Hotel/Teahouses,March-May & Sept-Dec,3/9/2022,Non-Binary,31,Private Sector/Self Employed,Yes,950000,No,2016,4700,Malta,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+317,Annapurna Circuit Short Trek,"
+$1,250 USD", 12 Days,Strenuous,5416 m,Hotel/Guesthouse,March - May & Sept - Nov.,10/2/2022,Male,32,Government Sector,Yes,800000,No,2016,4780,Mauritania,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+318,Annapurna Luxury Trek,"
+$1,450 USD", 9 Days,Easy To Moderate,2012m,Hotel/Luxury Lodges,March - May & Setpt - Dec,9/15/2021,Male,34,Government Sector,Yes,1100000,No,2016,4800,Mauritius,,,,,,,,
+319,Annapurna Panorama Trek,"
+$860 USD", 9 Days,Easy,3210 m,Hotel/Teahouse,Jan - May & Sept - Dec,3/11/2022,Non-Binary,25,Private Sector/Self Employed,Yes,1700000,Yes,2016,4840,Mexico,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+320,Annapurna Tilicho Lake Trek,"
+$1,450 USD", 17 Days,Strenuous,5416 m,Hotel/Guesthouse,March - May & Sept - Nov,12/12/2020,Transgender,35,Private Sector/Self Employed,No,800000,No,2016,4920,Monaco,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+321,Short Annapurna Trek,"
+$590 USD", 5 Days,Easy,1990 m,Hotel/Lodges,Jan- May & Sept - Dec,9/28/2022,Female,28,Private Sector/Self Employed,Yes,500000,No,2016,4960,Mongolia,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+322,Manaslu Circuit Trek,"
+$1,450 USD", 15 Days,Strenuous,5106 m,Hotel/Guesthouse,March - May & Sept - Nov,11/24/2020,Female,28,Private Sector/Self Employed,Yes,750000,No,2016,4980,Moldoba,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+323,Manaslu Circuit Trekking,"
+$1,380 USD", 14 Days,Moderate,5220 m,Hotel/Teahouses,March - May & Setpt - Nov,9/18/2021,Male,33,Private Sector/Self Employed,Yes,1400000,No,2016,4990,Montenegro,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+324,Tsum Valley with Manaslu Trek,"
+$1,850 USD", 20 Days,Strenuous,5220 m,Hotel/Guesthouse,March - May & Sept - Nov,12/4/2020,Male,28,Government Sector,Yes,300000,No,2016,5040,Morocco,,,,,,,,
+325,Upper Mustang Trek,"
+$2,150 USD", 17 Days,Easy To Moderate,4210 m,Hotel/Guesthouse,March - May & Sept - Nov.,2/1/2023,Female,31,Private Sector/Self Employed,Yes,1250000,No,2016,5080,Mozambique,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+326,Upper Mustang Trek with Yara,"
+$2,300 USD", 18 Days,Easy To Moderate,4200 m,Hotel/Lodges,March - Nov,2/1/2020,Non-Binary,28,Private Sector/Self Employed,Yes,1150000,No,2016,5120,Oman,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+327,Upper Mustang Tiji Festival Trek,"
+$2,150 USD", 18 Days,Easy To Moderate,4210 m,Hotel/Teahouses,March - May & Sept - Nov,3/30/2021,Non-Binary,34,Government Sector,Yes,1300000,No,2016,5160,Namibia,,,,,,,,
+328,Langtang Valley Trek,"
+$750 USD", 10 Days,Easy To Moderate,5050 m,Hotel/Teahouse,March-May & Sept-Dec,8/20/2022,Female,34,Private Sector/Self Employed,Yes,700000,Yes,2016,5200,Naure,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+329,Langtang Gosaikunda Trek,"
+$1,180 USD", 16 Days,Easy To Moderate,4600m,Hotel/Guesthouse,March - May & Sept - Dec,6/20/2020,Male,28,Private Sector/Self Employed,Yes,1100000,No,2016,5240,Nepal,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+330,Tamang Heritage Trek,"
+$920 USD", 14 Days,Easy To Moderate,5050 m,Hotel/Guesthouse,March - May & Sept - Dec,4/26/2020,Male,35,Private Sector/Self Employed,No,800000,No,2016,5280,Netherlands,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+331,Tamang Heritage Trail,"
+$750 USD", 8 Days,Easy,2607 m,Teahouses/Lodges,Jan - May & Sept - Dec,11/29/2020,Transgender,33,Private Sector/Self Employed,Yes,550000,No,2016,5480,Vanuatsu,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+332,Helambu Trek,"
+$780 USD", 9 Days,Easy,3650 m,Hotel/Guesthouse,Jan - May & Sept- Dec,1/25/2020,Non-Binary,31,Private Sector/Self Employed,Yes,1650000,Yes,2016,5540,new zealand,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+333,Annapurna Base Camp Trek  ," $1,499 USD", 11 Days,Moderate+Demanding,"4,130m",Hotel/Guesthouse,Jan - May & Sept - Dec,6/11/2021,Female,31,Private Sector/Self Employed,Yes,1400000,No,2016,5580,Nicaragua,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+334,Everest Base Camp Trek for Youths  ," $1,750 USD", 14 Days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,9/17/2020,Female,29,Private Sector/Self Employed,Yes,1050000,No,2016,5620,Nigail,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+335,Everest Base Camp Short Trek  ," $1,499 USD", 14 Days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/10/2021,Male,28,Private Sector/Self Employed,Yes,800000,No,2016,5660,Nigeria,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+336,Everest Base Camp Trek  ," $1,499 USD", 16 Days,Moderate+Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/5/2022,Male,32,Government Sector,Yes,350000,No,2016,5780,Norway,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+337,Annapurna Circuit Trek  ," $1,499 USD", 17 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,7/19/2020,Female,30,Private Sector/Self Employed,No,550000,Yes,2016,5830,Micronesia,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+338,Everest Base Camp Luxury Lodge Trek  ," $1,499 USD", 15 Days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,11/12/2020,Transgender,28,Private Sector/Self Employed,Yes,600000,No,2016,5840,Marshall,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+339,Everest Base Camp Trek via Gokyo Lakes and Cho La Pass  ," $1,499 USD", 18 days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,8/31/2022,Female,29,Private Sector/Self Employed,Yes,1050000,No,2016,5850,Palao,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+340,Upper Mustang Trek  ," $1,499 USD", 17 Days,Moderate+Demanding,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,9/29/2021,Male,27,Private Sector/Self Employed,No,800000,No,2016,5860,Pakistan,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+341,Everest Advanced Base Camp Trek from Tibet  ," $1,499 USD", 18 Days,Moderate+Demanding,"6,340m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/28/2023,Transgender,28,Private Sector/Self Employed,Yes,550000,No,2016,5910,Panama,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+342,Gokyo Lakes and Gokyo Ri Trek  ," $1,499 USD", 14 Days,Moderate+Demanding,"5,357m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/24/2023,Female,28,Private Sector/Self Employed,Yes,1100000,No,2016,5980,Papua New Guinea,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+343,Mardi Himal Trek  ," $1,499 USD", 10 Days,Moderate,"3,540m",Hotel/Guesthouse,Jan - May & Sept - Dec,7/9/2021,Non-Binary,28,Private Sector/Self Employed,Yes,1250000,No,2016,6000,Paraguay,,,,,,,,
+344,Manaslu Circuit Trek  ," $1,499 USD", 18 Days,Demanding,"5,160m",Hotel/Guesthouse,Jan - May & Sept - Dec,12/7/2021,Male,32,Government Sector,Yes,800000,Yes,2016,6040,Peru,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+345,Langtang Valley Trek  ," $1,499 USD", 11 Days,Moderate+Demanding,"5,000m",Hotel/Guesthouse,Jan - May & Sept - Dec,6/11/2022,Transgender,29,Private Sector/Self Employed,Yes,1200000,No,2016,6080,Philippines,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+346,Annapurna Sanctuary Trek  ," $1,499 USD", 14 Days,Moderate+Demanding,"4,130m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/22/2023,Female,25,Private Sector/Self Employed,Yes,1800000,Yes,2016,6160,Poland,,,,,,,,
+347,Rara Lake Trek  ," $1,499 USD", 15 Days,Moderate,"3,055m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/29/2022,Female,34,Private Sector/Self Employed,Yes,1300000,Yes,2016,6200,Portugal,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+348,Everest High Passes Trek  ," $1,499 USD", 20 Days,Demanding,"5,546m",Hotel/Guesthouse,Jan - May & Sept - Dec,11/26/2020,Transgender,31,Private Sector/Self Employed,Yes,1400000,No,2016,6240,Guinea Visau,,,,,,,,
+349,Kanchenjunga Circuit Trek  ," $1,499 USD", 25 Days,Demanding,"5,143m",Hotel/Guesthouse,Jan - May & Sept - Dec,7/4/2022,Female,28,Private Sector/Self Employed,Yes,500000,No,2016,6260,East Timor Democratic Republic,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+350,Everest View Trek  ," $1,499 USD", 12 Days,Light+Moderate,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,12/7/2022,Non-Binary,31,Private Sector/Self Employed,Yes,950000,Yes,2016,6340,Qatar,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+351,Tsum Valley Trek  ," $1,499 USD", 19 Days,Demanding,"6,000m",Hotel/Guesthouse,Jan - May & Sept - Dec,3/6/2022,Female,29,Private Sector/Self Employed,Yes,1200000,Yes,2016,6420,Romania,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+352,The Royal Trek  ," $1,499 USD", 9 Days,Moderate,"1,730m",Hotel/Guesthouse,Jan - May & Sept - Dec,11/21/2020,Non-Binary,31,Private Sector/Self Employed,Yes,1350000,No,2016,6430,Russia,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+353,Makalu Base Camp Trek  ," $1,499 USD", 22 Days,Demanding+Challenging,"4,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,7/6/2023,Female,31,Government Sector,No,300000,No,2016,6460,Rwanda,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+354,"Langtang, Gosainkunda and Helambu Trek  "," $1,499 USD", 17 Days,Moderate,"5,000m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/13/2022,Transgender,25,Private Sector/Self Employed,No,1150000,No,2016,6590,St. Christopher Navis,,,,,,,,
+355,Nar Phu Valley Trek  ," $1,499 USD", 19 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,6/9/2023,Non-Binary,28,Private Sector/Self Employed,Yes,1400000,No,2016,6620,St. Lucia,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+356,Annapurna Circle Trek  ," $1,499 USD", 14 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/6/2023,Male,34,Private Sector/Self Employed,Yes,1000000,No,2016,6700,St. Vincent,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+357,Everest Kangshung Face Trek  ," $1,499 USD", 21 Days,Demanding+Challenging,"5,320m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/18/2023,Transgender,34,Private Sector/Self Employed,Yes,500000,No,2016,6740,Sun Marino,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+358,Tsum Valley and Manaslu Trek  ," $1,499 USD", 27 Days,Demanding,"4,460m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/15/2022,Non-Binary,34,Private Sector/Self Employed,Yes,1000000,Yes,2016,6780,Santa Principa,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+359,Khopra Ridge Community Trek  ," $1,499 USD", 13 Days,Moderate+Demanding,"4,500m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/25/2023,Non-Binary,25,Private Sector/Self Employed,No,1150000,No,2016,6820,Saudi Arabia,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+360,Nepal Experience Tour  ," $1,499 USD", 12 Days,Light,"3,210m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/10/2023,Female,28,Private Sector/Self Employed,No,550000,No,2016,6860,Senegal,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+361,Annapurna Circuit Trek with Tilicho Lake and Poon Hill  ," $1,499 USD", 20 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/11/2023,Male,29,Private Sector/Self Employed,Yes,1350000,No,2016,6880,Serbia,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+362,Annapurna With Tilicho Lake Trek  ," $1,499 USD", 17 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,11/1/2022,Male,28,Private Sector/Self Employed,Yes,700000,No,2016,6900,Saechel,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+363,Langtang Valley Trek with Ganja la Pass  ," $1,499 USD", 14 Days,Demanding+Challenging,"5,122m",Hotel/Guesthouse,Jan - May & Sept - Dec,9/4/2021,Female,34,Government Sector,Yes,1300000,No,2016,6940,Sierra Leone,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+364,Tamang Heritage Trek  ," $1,499 USD", 14 Days,Moderate,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/18/2022,Female,31,Government Sector,Yes,1200000,No,2016,7020,Singapore,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+365,Manaslu and Annapurna Trek with Tilicho Lake  ," $1,499 USD", 25 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,8/3/2023,Transgender,25,Private Sector/Self Employed,No,1700000,Yes,2016,7030,Slovakia,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+366,Nepal Trekking and Everest Himalaya Heli Tour  ," $1,499 USD", 7 Days,Moderate,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,2/21/2022,Male,28,Government Sector,Yes,300000,No,2016,7040,Vietnam,,,,,,,,
+367,Nepal Hiking and Culture Tour  ," $1,499 USD", 8 Days,Moderate,"1,550m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/24/2022,Female,31,Government Sector,Yes,1300000,No,2016,7050,Slovenia,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+368,Annapurna Sunrise and Everest View Trek  ," $1,499 USD", 17 Days,Moderate,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/30/2020,Non-Binary,35,Private Sector/Self Employed,No,800000,No,2016,7060,Somalia,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+369,Tenzing Hillary Everest Marathon  ," $1,499 USD", 20 Days,Demanding+Challenging,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,9/10/2022,Female,32,Government Sector,Yes,800000,No,2016,7100,Republic of South Africa,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+370,Everest Base Camp Trek,$1450 USD,16 Days,Moderate-Hard,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,11/15/2022,Female,31,Government Sector,Yes,1300000,No,2016,7160,Zimbabwe,,,,,,,,
+371,Everest Kalapathar Trekking,$1390 USD,15 Days,Moderate-Hard,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,9/24/2020,Non-Binary,27,Government Sector,Yes,900000,No,2016,7240,Spain,,,,,,,,
+372,Everest Panorama Trek,$1040 USD,10 Days,Easy-Moderate,"3,860m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/18/2021,Female,29,Private Sector/Self Employed,Yes,350000,No,2016,7280,South Sudan,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+373,Everest Base Camp Trek via Gokyo Lake,$1530 USD,19 Days,Moderate-Hard,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,9/18/2020,Non-Binary,28,Private Sector/Self Employed,Yes,900000,Yes,2016,7290,Sudan,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+374,Gokyo Lake Trek,$1190 USD,13 Days,Moderate,"5,357m",Hotel/Guesthouse,Jan - May & Sept - Dec,4/10/2022,Transgender,28,Government Sector,Yes,600000,No,2016,7400,Slinum,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+375,Everest Base Camp Heli Trek,$3600 USD,9 Days,Moderate,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/15/2022,Non-Binary,28,Private Sector/Self Employed,Yes,1100000,No,2016,7480,Swaji Land,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+376,Annapurna Circuit Trek,$1100 USD,19 Days,Moderate-Hard,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,12/19/2020,Male,31,Government Sector,Yes,1300000,No,2016,7520,Sweden,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+377,Annapurna Base Camp Trek,$1090 USD,16 Days,Moderate,"4,130m",Hotel/Guesthouse,Jan - May & Sept - Dec,9/1/2022,Male,27,Private Sector/Self Employed,No,1550000,Yes,2016,7560,Switzerland,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
+378,Ghorepani Poon Hill Trek,$450 USD,10 Days,Easy,"3,210m",Hotel/Guesthouse,Jan - May & Sept - Dec,8/9/2022,Male,25,Private Sector/Self Employed,Yes,1700000,Yes,2016,7600,Syria,Intermediate,Clear,5,Guide,Poles,Leisure,None,4
+379,Upper Mustang Trek,$2100 USD,17 Days,Moderate-Hard,4200m,Hotel/Guesthouse,Jan - May & Sept - Dec,9/9/2022,Female,27,Private Sector/Self Employed,No,1550000,Yes,2016,7620,Tajikistan,Beginner,Cloudy,6,No Guide,None,Adventure,Minor Injury,3.5
+380,Mardi Himal Trek,$590 USD,9 Days,Easy-Moderate,"4,500m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/4/2021,Non-Binary,28,Private Sector/Self Employed,Yes,1200000,No,2016,7640,Thailand,Intermediate,Clear,10,Guide,Poles,Leisure,None,4.5
+381,Langtang Valley Trekking,$690 USD,11 Days,Moderate,"4,773m",Hotel/Guesthouse,Jan - May & Sept - Dec,1/13/2021,Female,29,Private Sector/Self Employed,Yes,1200000,No,2016,7680,Togo,Beginner,Rainy,8,No Guide,None,Adventure,Altitude Sickness,3
+382,Manaslu Circuit Trek,$1190 USD,17 Days,Moderate-Hard,"5,220m",Hotel/Guesthouse,Jan - May & Sept - Dec,5/13/2025,Female,31,Private Sector/Self Employed,No,1400000,Yes,5460,4560,Nepal,Advanced,Snowy,12,Guide,Oxygen,Charity,None,5
