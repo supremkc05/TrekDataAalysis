@@ -1,0 +1,384 @@
+Trek,Cost,Time,Trip Grade,Max Altitude,Accomodation,Date of Travel,Sex,Age,FrequentFlyer,Year,Regional code,Country,Fitness Level,Weather Conditions,Trekking Group Size,Guide/No Guide,Equipment Used,Purpose of Travel,Health Incidents,Review/Satisfaction,Best Travel Time,Trip Grade Numeric,Health_Issue
+Everest Base Camp Trek,1420.0,16,Moderate,5545,Guesthouse,2022-09-13,Other,31,No,2017,0,total,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,3,0
+Everest Base Camp Short Trek,1295.0,14,Moderate,5545,Guesthouse,2021-09-04,Female,31,No,2017,40,Afghanistan,0.0,0,12,1,,,,4.0,Spring - Autumn,3,0
+Everest Base Camp Heli Shuttle Trek,2000.0,12,Moderate,5545,Guesthouse,2021-01-25,Female,34,No,2017,80,Albania,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,3,0
+Everest Base Camp Heli Trek,3300.0,11,Moderate,5545,Guesthouse,2022-01-28,Other,28,No,2017,120,Algeria,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,3,0
+Everest Base Camp Trek for Seniors,1800.0,20,Moderate,5545,Guesthouse,2021-10-21,Other,28,Yes,2017,200,Andra,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,3,1
+Everest Chola Pass Trek,1720.0,19,Strenuous,5545,Guesthouse,2022-01-25,Other,25,No,2017,240,Angola,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,5,0
+Gokyo Lake Renjo La Pass Trek,1450.0,16,Moderate,5360,Guesthouse,2022-08-07,Male,31,No,2017,280,Antigua Berbuda,0.0,0,12,1,,,,4.0,Spring - Autumn,3,0
+Everest High Passes Trek,1950.0,22,Strenuous,5545,Guesthouse,2021-01-04,Other,31,Yes,2017,310,Azerbaijan,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,5,0
+Short Everest Trek,1060.0,7,Easy To Moderate,3900,Guesthouse,2022-06-28,Female,28,Yes,2017,320,Argentina,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,1,0
+Everest Panorama Trek,1150.0,10,Easy To Moderate,3860,Guesthouse,2020-01-31,Female,33,Yes,2017,360,Australia,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,1,1
+Everest View Trek,1100.0,9,Easy To Moderate,3860,Guesthouse,2020-10-11,Other,31,No,2017,400,Austria,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,1,0
+Luxury Everest Base Camp Heli Trek,4200.0,11,Moderate,5545,Teahouse,2020-11-14,Other,26,Yes,2017,440,Bahamas,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,3,1
+Everest Base Camp Trek with Chola and Renjo La Pass,1900.0,21,Strenuous,5545,Guesthouse,2022-03-03,Male,32,No,2017,480,Barrane,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,5,0
+Annapurna Base Camp Trek,1090.0,14,Moderate,4210,Guesthouse,2020-12-03,Other,31,Yes,2017,500,Bangladesh,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,3,0
+Annapurna Base Camp Short Trek,1090.0,11,Easy To Moderate,4210,Teahouses,2022-03-17,Male,31,No,2017,510,Armenia,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,1,1
+Instant Annapurna Base Camp Trek,980.0,9,Moderate,4230,Guest Houses,2023-08-21,Male,34,No,2017,520,Barbados,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,3,0
+Annapurna Base Camp Heli Trek,1750.0,9,Easy To Moderate,4210,Teahouses,2022-10-07,Male,28,No,2017,560,Belgium,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,1,1
+Mardi Himal Trek,850.0,9,Easy To Moderate,4200,Guesthouses,2022-06-16,Male,28,No,2017,640,Bhutan,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,1,0
+Mardi Himal Trekking,850.0,8,Easy To Moderate,4200,Guesthouse,2021-12-15,Other,29,No,2017,680,Bolivia,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,1,0
+Classic Annapurna Circuit Trek,1350.0,18,Moderate,5416,Teahouses,2021-02-22,Female,34,Yes,2017,700,Bosnia Herzegovna,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,3,1
+Annapurna Circuit Trek,1250.0,14,Moderate,5416,Teahouses,2020-05-06,Other,28,Yes,2017,720,Botwana,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,3,0
+Annapurna Circuit Short Trek,1250.0,12,Strenuous,5416,Guesthouse,2020-08-06,Other,29,No,2017,760,Brazil,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,5,1
+Annapurna Luxury Trek,1450.0,9,Easy To Moderate,2012,Luxury Lodges,2021-06-18,Other,31,No,2017,840,Belize,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,1,0
+Annapurna Panorama Trek,860.0,9,Easy,3210,Teahouse,2021-08-01,Male,28,No,2017,900,Solomon,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,0,0
+Annapurna Tilicho Lake Trek,1450.0,17,Strenuous,5416,Guesthouse,2020-06-12,Male,31,Yes,2017,960,Brunei,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,5,1
+Short Annapurna Trek,590.0,5,Easy,1990,Lodges,2022-01-13,Male,35,No,2017,1000,Bulgaria,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,0,0
+Manaslu Circuit Trek,1450.0,15,Strenuous,5106,Guesthouse,2023-04-01,Male,34,Yes,2017,1040,Myanmar,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,5,1
+Manaslu Circuit Trekking,1380.0,14,Moderate,5220,Teahouses,2020-10-06,Other,28,Yes,2017,1080,Brush,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,3,0
+Tsum Valley with Manaslu Trek,1850.0,20,Strenuous,5220,Guesthouse,2023-07-07,Male,26,Yes,2017,1120,Belarus,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,5,0
+Upper Mustang Trek,2150.0,17,Easy To Moderate,4210,Guesthouse,2020-10-14,Male,31,No,2017,1160,Cambodia,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,1,1
+Upper Mustang Trek with Yara,2300.0,18,Easy To Moderate,4200,Lodges,2022-07-23,Other,30,Yes,2017,1200,Cameroon,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Spring,1,0
+Upper Mustang Tiji Festival Trek,2150.0,18,Easy To Moderate,4210,Teahouses,2022-07-09,Other,31,No,2017,1240,Canada,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,1,1
+Langtang Valley Trek,750.0,10,Easy To Moderate,5050,Teahouse,2021-10-21,Female,25,No,2017,1320,Carbo verde,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,1,0
+Langtang Gosaikunda Trek,1180.0,16,Easy To Moderate,4600,Guesthouse,2022-04-11,Male,32,No,2017,1400,Central Africa,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,1,0
+Tamang Heritage Trek,920.0,14,Easy To Moderate,5050,Guesthouse,2022-11-24,Female,28,No,2017,1440,Sri Lanka,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,1,1
+Tamang Heritage Trail,750.0,8,Easy,2607,Teahouses/Lodges,2022-03-03,Other,33,Yes,2017,1480,Chad,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,0,0
+Helambu Trek,780.0,9,Easy,3650,Guesthouse,2020-01-24,Male,31,No,2017,1520,Chile,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,0,1
+Annapurna Base Camp Trek,1499.0,11,Moderate+Demanding,4130,Guesthouse,2020-04-20,Other,34,No,2017,1560,China,0.0,0,12,1,,,,4.0,Spring - Autumn,4,0
+Everest Base Camp Trek for Youths,1750.0,14,Demanding,5545,Guesthouse,2020-08-27,Female,34,No,2017,1580,Taiwan,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Everest Base Camp Short Trek,1499.0,14,Demanding,5545,Guesthouse,2022-05-08,Female,33,Yes,2017,1700,Columbia,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Everest Base Camp Trek,1499.0,16,Moderate+Demanding,5545,Guesthouse,2020-06-11,Other,25,Yes,2017,1740,Komoro,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Annapurna Circuit Trek,1499.0,17,Demanding,5416,Guesthouse,2020-07-15,Other,33,No,2017,1780,Congo,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Everest Base Camp Luxury Lodge Trek,1499.0,15,Demanding,5545,Guesthouse,2020-01-19,Male,26,Yes,2017,1800,Congo Democratic Republic,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Everest Base Camp Trek via Gokyo Lakes and Cho La Pass,1499.0,18,Demanding,5545,Guesthouse,2022-02-07,Other,28,Yes,2017,1880,Costa Rica,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Upper Mustang Trek,1499.0,17,Moderate+Demanding,3870,Guesthouse,2022-03-23,Female,25,No,2017,1910,Croatia,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Everest Advanced Base Camp Trek from Tibet,1499.0,18,Moderate+Demanding,6340,Guesthouse,2021-08-19,Other,34,No,2017,1920,Cuba,0.0,0,12,1,,,,4.0,Spring - Autumn,4,0
+Gokyo Lakes and Gokyo Ri Trek,1499.0,14,Moderate+Demanding,5357,Guesthouse,2023-05-23,Female,25,No,2017,1960,Cyprus,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Mardi Himal Trek,1499.0,10,Moderate,3540,Guesthouse,2020-11-03,Female,35,No,2017,2030,Czech Republic,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,3,0
+Manaslu Circuit Trek,1499.0,18,Demanding,5160,Guesthouse,2020-03-26,Other,28,No,2017,2040,Benan,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Langtang Valley Trek,1499.0,11,Moderate+Demanding,5000,Guesthouse,2021-09-10,Female,31,No,2017,2080,Denmark,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Annapurna Sanctuary Trek,1499.0,14,Moderate+Demanding,4130,Guesthouse,2020-01-24,Male,31,No,2017,2120,Dominica,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Rara Lake Trek,1499.0,15,Moderate,3055,Guesthouse,2022-07-28,Other,29,No,2017,2140,dominican republic,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,3,1
+Everest High Passes Trek,1499.0,20,Demanding,5546,Guesthouse,2020-07-08,Female,31,No,2017,2180,Ecuador,0.0,0,12,1,,,,4.0,Spring - Autumn,4,0
+Kanchenjunga Circuit Trek,1499.0,25,Demanding,5143,Guesthouse,2021-10-15,Other,28,No,2017,2220,El Salvador,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Everest View Trek,1499.0,12,Light+Moderate,3870,Guesthouse,2021-01-21,Female,29,No,2017,2260,Equatorial guinea,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,2,1
+Tsum Valley Trek,1499.0,19,Demanding,6000,Guesthouse,2021-11-01,Male,26,No,2017,2310,Ethiopia,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+The Royal Trek,1499.0,9,Moderate,1730,Guesthouse,2022-03-14,Other,28,No,2017,2320,Eritria,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,3,1
+Makalu Base Camp Trek,1499.0,22,Demanding+Challenging,4870,Guesthouse,2020-09-20,Other,34,No,2017,2330,Estonia,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,5,0
+Langtang Gosainkunda and Helambu Trek,1499.0,17,Moderate,5000,Guesthouse,2021-01-01,Male,33,Yes,2017,2390,Georgia,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,3,0
+Nar Phu Valley Trek,1499.0,19,Demanding,5416,Guesthouse,2023-02-28,Female,33,Yes,2017,2420,Fiji,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Annapurna Circle Trek,1499.0,14,Demanding,5416,Guesthouse,2023-01-11,Male,31,Yes,2017,2460,Finland,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Everest Kangshung Face Trek,1499.0,21,Demanding+Challenging,5320,Guesthouse,2021-10-11,Other,32,Yes,2017,2500,France,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,5,1
+Tsum Valley and Manaslu Trek,1499.0,27,Demanding,4460,Guesthouse,2020-03-04,Male,28,Yes,2017,2620,Jibuti,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Khopra Ridge Community Trek,1499.0,13,Moderate+Demanding,4500,Guesthouse,2023-03-09,Female,27,No,2017,2660,Gabon,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Nepal Experience Tour,1499.0,12,Light,3210,Guesthouse,2021-11-23,Female,30,Yes,2017,2700,Gambia,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,1,1
+Annapurna Circuit Trek with Tilicho Lake and Poon Hill,1499.0,20,Demanding,5416,Guesthouse,2021-10-29,Female,26,No,2017,2750,Palestine,0.0,0,12,1,,,,4.0,Spring - Autumn,4,0
+Annapurna With Tilicho Lake Trek,1499.0,17,Demanding,5416,Guesthouse,2021-02-13,Female,30,Yes,2017,2760,Germany,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Langtang Valley Trek with Ganja la Pass,1499.0,14,Demanding+Challenging,5122,Guesthouse,2021-04-27,Male,34,Yes,2017,2880,Ghana,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,5,0
+Tamang Heritage Trek,1499.0,14,Moderate,3870,Guesthouse,2022-04-10,Female,29,No,2017,2960,Kiribass,0.0,0,12,1,,,,4.0,Spring - Autumn,3,0
+Manaslu and Annapurna Trek with Tilicho Lake,1499.0,25,Demanding,5416,Guesthouse,2021-04-18,Female,31,No,2017,3000,Greece,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Nepal Trekking and Everest Himalaya Heli Tour,1499.0,7,Moderate,5545,Guesthouse,2021-12-02,Other,34,No,2017,3080,Grenada,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,3,0
+Nepal Hiking and Culture Tour,1499.0,8,Moderate,1550,Guesthouse,2021-05-30,Other,28,Yes,2017,3200,Guatemala,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,3,1
+Annapurna Sunrise and Everest View Trek,1499.0,17,Moderate,3870,Guesthouse,2023-05-16,Other,28,Yes,2017,3240,Guinea,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,3,0
+Tenzing Hillary Everest Marathon,1499.0,20,Demanding+Challenging,5545,Guesthouse,2022-10-13,Male,28,Yes,2017,3280,Gaiana,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,5,0
+Everest Base Camp Trek,1450.0,16,Moderate-Hard,5545,Guesthouse,2023-04-28,Other,28,No,2017,3320,Haiti,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Everest Kalapathar Trekking,1390.0,15,Moderate-Hard,5545,Guesthouse,2020-09-16,Other,34,No,2017,3400,Honduras,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Everest Panorama Trek,1040.0,10,Easy-Moderate,3860,Guesthouse,2023-03-24,Other,29,No,2017,3440,China (Hong Kong),0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,2,1
+Everest Base Camp Trek via Gokyo Lake,1530.0,19,Moderate-Hard,5545,Guesthouse,2022-01-01,Other,31,No,2017,3441,Hong Kong DI,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Gokyo Lake Trek,1190.0,13,Moderate,5357,Guesthouse,2020-07-09,Female,31,No,2017,3442,Hong Kong SAR,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,3,0
+Everest Base Camp Heli Trek,3600.0,9,Moderate,5545,Guesthouse,2020-12-04,Female,31,No,2017,3480,Hungary,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,3,1
+Annapurna Circuit Trek,1100.0,19,Moderate-Hard,5416,Guesthouse,2021-01-13,Female,26,No,2017,3520,Iceland,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Annapurna Base Camp Trek,1090.0,16,Moderate,4130,Guesthouse,2021-08-25,Female,25,No,2017,3560,India,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,3,1
+Ghorepani Poon Hill Trek,450.0,10,Easy,3210,Guesthouse,2023-03-08,Other,28,No,2017,3600,Indonesia,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,0,0
+Upper Mustang Trek,2100.0,17,Moderate-Hard,4200,Guesthouse,2021-09-03,Male,34,Yes,2017,3640,Iran,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Mardi Himal Trek,590.0,9,Easy-Moderate,4500,Guesthouse,2021-05-09,Female,32,No,2017,3680,Iraq,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,2,1
+Langtang Valley Trekking,690.0,11,Moderate,4773,Guesthouse,2023-01-17,Female,25,Yes,2017,3720,Ireland,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,3,0
+Manaslu Circuit Trek,1190.0,17,Moderate-Hard,5220,Guesthouse,2023-01-11,Male,32,No,2017,3760,Israel,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Annapurna Base Camp Trek,1090.0,14,Moderate,4210,Guesthouse,2022-07-29,Other,28,No,2017,3800,Italy,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,3,0
+Annapurna Base Camp Short Trek,1090.0,11,Easy To Moderate,4210,Teahouses,2023-06-04,Other,34,No,2017,3840,Court Jiboire,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,1,0
+Instant Annapurna Base Camp Trek,980.0,9,Moderate,4230,Guest Houses,2022-11-22,Male,28,No,2017,3880,Jamaica,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,3,1
+Annapurna Base Camp Heli Trek,1750.0,9,Easy To Moderate,4210,Teahouses,2023-08-07,Other,27,No,2017,3980,Kazakhstan,0.0,0,12,1,,,,4.0,Spring - Autumn,1,0
+Mardi Himal Trek,850.0,9,Easy To Moderate,4200,Guesthouses,2022-04-15,Other,28,No,2017,4000,Jordan,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,1,1
+Mardi Himal Trekking,850.0,8,Easy To Moderate,4200,Guesthouse,2022-04-11,Other,28,No,2017,4040,Kenya,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,1,0
+Classic Annapurna Circuit Trek,1350.0,18,Moderate,5416,Teahouses,2021-09-26,Other,33,Yes,2017,4080,north korea,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,3,0
+Annapurna Circuit Trek,1250.0,14,Moderate,5416,Teahouses,2020-01-08,Male,34,No,2017,4100,South Korea,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,3,1
+Annapurna Circuit Short Trek,1250.0,12,Strenuous,5416,Guesthouse,2020-12-23,Female,26,No,2017,4140,Kuwait,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,5,0
+Annapurna Luxury Trek,1450.0,9,Easy To Moderate,2012,Luxury Lodges,2020-08-20,Male,28,No,2017,4170,Kyrgyzstan,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,1,1
+Annapurna Panorama Trek,860.0,9,Easy,3210,Teahouse,2022-03-27,Male,29,No,2017,4180,Laos,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,0,0
+Annapurna Tilicho Lake Trek,1450.0,17,Strenuous,5416,Guesthouse,2022-03-24,Male,29,No,2017,4220,Lebanon,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,5,0
+Short Annapurna Trek,590.0,5,Easy,1990,Lodges,2020-07-15,Female,29,No,2017,4260,Lesot,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,0,1
+Manaslu Circuit Trek,1450.0,15,Strenuous,5106,Guesthouse,2021-09-07,Male,28,No,2017,4280,Latvia,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,5,0
+Manaslu Circuit Trekking,1380.0,14,Moderate,5220,Teahouses,2021-08-18,Other,33,Yes,2017,4300,Liberia,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,3,1
+Tsum Valley with Manaslu Trek,1850.0,20,Strenuous,5220,Guesthouse,2023-06-10,Male,29,No,2017,4340,Libya,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,5,0
+Upper Mustang Trek,2150.0,17,Easy To Moderate,4210,Guesthouse,2023-04-19,Other,26,No,2017,4380,Liechtenstein,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,1,0
+Upper Mustang Trek with Yara,2300.0,18,Easy To Moderate,4200,Lodges,2020-02-29,Female,28,No,2017,4400,Lithuania,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Spring,1,1
+Upper Mustang Tiji Festival Trek,2150.0,18,Easy To Moderate,4210,Teahouses,2020-02-20,Other,28,No,2017,4420,Luxembourg,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,1,0
+Langtang Valley Trek,750.0,10,Easy To Moderate,5050,Teahouse,2022-01-04,Male,34,No,2017,4460,Macau,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,1,1
+Langtang Gosaikunda Trek,1180.0,16,Easy To Moderate,4600,Guesthouse,2021-07-07,Male,34,No,2017,4461,Macau travel certificate,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,1,0
+Tamang Heritage Trek,920.0,14,Easy To Moderate,5050,Guesthouse,2023-01-29,Other,26,No,2017,4500,Madagascar,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,1,0
+Tamang Heritage Trail,750.0,8,Easy,2607,Teahouses/Lodges,2020-08-17,Other,25,Yes,2017,4540,Malawi,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,0,1
+Helambu Trek,780.0,9,Easy,3650,Guesthouse,2022-06-10,Male,31,No,2017,4580,Malaysia,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,0,0
+Annapurna Base Camp Trek,1499.0,11,Moderate+Demanding,4130,Guesthouse,2021-05-09,Female,28,No,2017,4620,Maldives,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Everest Base Camp Trek for Youths,1750.0,14,Demanding,5545,Guesthouse,2023-04-07,Female,30,No,2017,4660,Mari,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Everest Base Camp Short Trek,1499.0,14,Demanding,5545,Guesthouse,2023-04-05,Other,29,Yes,2017,4700,Malta,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Everest Base Camp Trek,1499.0,16,Moderate+Demanding,5545,Guesthouse,2020-07-22,Male,29,No,2017,4780,Mauritania,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Annapurna Circuit Trek,1499.0,17,Demanding,5416,Guesthouse,2022-05-10,Male,29,No,2017,4800,Mauritius,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Everest Base Camp Luxury Lodge Trek,1499.0,15,Demanding,5545,Guesthouse,2020-01-03,Male,28,No,2017,4840,Mexico,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Everest Base Camp Trek via Gokyo Lakes and Cho La Pass,1499.0,18,Demanding,5545,Guesthouse,2020-01-17,Female,31,No,2017,4920,Monaco,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Upper Mustang Trek,1499.0,17,Moderate+Demanding,3870,Guesthouse,2022-05-22,Other,31,Yes,2017,4960,Mongolia,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Everest Advanced Base Camp Trek from Tibet,1499.0,18,Moderate+Demanding,6340,Guesthouse,2022-06-28,Other,31,No,2017,4980,Moldoba,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Gokyo Lakes and Gokyo Ri Trek,1499.0,14,Moderate+Demanding,5357,Guesthouse,2022-07-19,Other,28,No,2017,4990,Montenegro,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Mardi Himal Trek,1499.0,10,Moderate,3540,Guesthouse,2022-05-10,Other,26,No,2017,5040,Morocco,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,3,1
+Manaslu Circuit Trek,1499.0,18,Demanding,5160,Guesthouse,2020-08-28,Other,32,No,2017,5080,Mozambique,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Langtang Valley Trek,1499.0,11,Moderate+Demanding,5000,Guesthouse,2021-06-16,Other,27,No,2017,5120,Oman,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Annapurna Sanctuary Trek,1499.0,14,Moderate+Demanding,4130,Guesthouse,2023-05-27,Other,32,No,2017,5160,Namibia,0.0,0,12,1,,,,4.0,Spring - Autumn,4,0
+Rara Lake Trek,1499.0,15,Moderate,3055,Guesthouse,2022-01-21,Other,29,No,2017,5200,Naure,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,3,0
+Everest High Passes Trek,1499.0,20,Demanding,5546,Guesthouse,2022-06-29,Female,32,Yes,2017,5240,Nepal,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Kanchenjunga Circuit Trek,1499.0,25,Demanding,5143,Guesthouse,2020-11-01,Other,27,No,2017,5280,Netherlands,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Everest View Trek,1499.0,12,Light+Moderate,3870,Guesthouse,2021-12-02,Other,31,No,2017,5480,Vanuatsu,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,2,0
+Tsum Valley Trek,1499.0,19,Demanding,6000,Guesthouse,2021-03-28,Female,29,No,2017,5540,new zealand,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+The Royal Trek,1499.0,9,Moderate,1730,Guesthouse,2021-01-29,Other,28,No,2017,5580,Nicaragua,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,3,0
+Makalu Base Camp Trek,1499.0,22,Demanding+Challenging,4870,Guesthouse,2020-07-14,Other,28,No,2017,5620,Nigail,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,5,1
+Langtang Gosainkunda and Helambu Trek,1499.0,17,Moderate,5000,Guesthouse,2020-10-09,Female,28,No,2017,5660,Nigeria,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,3,0
+Nar Phu Valley Trek,1499.0,19,Demanding,5416,Guesthouse,2021-05-10,Other,25,No,2017,5780,Norway,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Annapurna Circle Trek,1499.0,14,Demanding,5416,Guesthouse,2022-03-23,Female,28,Yes,2017,5830,Micronesia,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Everest Kangshung Face Trek,1499.0,21,Demanding+Challenging,5320,Guesthouse,2022-10-28,Other,28,No,2017,5840,Marshall,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,5,0
+Tsum Valley and Manaslu Trek,1499.0,27,Demanding,4460,Guesthouse,2020-09-08,Other,29,No,2017,5850,Palao,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Khopra Ridge Community Trek,1499.0,13,Moderate+Demanding,4500,Guesthouse,2023-02-16,Other,29,Yes,2017,5860,Pakistan,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Nepal Experience Tour,1499.0,12,Light,3210,Guesthouse,2022-07-04,Other,28,No,2017,5910,Panama,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,1,0
+Annapurna Circuit Trek with Tilicho Lake and Poon Hill,1499.0,20,Demanding,5416,Guesthouse,2022-04-14,Other,35,No,2017,5980,Papua New Guinea,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Annapurna With Tilicho Lake Trek,1499.0,17,Demanding,5416,Guesthouse,2023-06-24,Other,28,No,2017,6000,Paraguay,0.0,0,12,1,,,,4.0,Spring - Autumn,4,0
+Langtang Valley Trek with Ganja la Pass,1499.0,14,Demanding+Challenging,5122,Guesthouse,2023-05-08,Other,25,No,2017,6040,Peru,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,5,1
+Tamang Heritage Trek,1499.0,14,Moderate,3870,Guesthouse,2022-05-26,Female,32,No,2017,6080,Philippines,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,3,0
+Manaslu and Annapurna Trek with Tilicho Lake,1499.0,25,Demanding,5416,Guesthouse,2020-03-17,Other,26,No,2017,6160,Poland,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Nepal Trekking and Everest Himalaya Heli Tour,1499.0,7,Moderate,5545,Guesthouse,2020-09-20,Male,31,No,2017,6200,Portugal,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,3,1
+Nepal Hiking and Culture Tour,1499.0,8,Moderate,1550,Guesthouse,2021-11-17,Other,28,No,2017,6240,Guinea Visau,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,3,0
+Annapurna Sunrise and Everest View Trek,1499.0,17,Moderate,3870,Guesthouse,2022-06-30,Male,30,No,2017,6260,East Timor Democratic Republic,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,3,1
+Tenzing Hillary Everest Marathon,1499.0,20,Demanding+Challenging,5545,Guesthouse,2020-09-17,Other,31,No,2017,6340,Qatar,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,5,0
+Everest Base Camp Trek,1450.0,16,Moderate-Hard,5545,Guesthouse,2023-03-31,Other,25,No,2017,6420,Romania,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Everest Kalapathar Trekking,1390.0,15,Moderate-Hard,5545,Guesthouse,2021-08-14,Other,28,No,2017,6430,Russia,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Everest Panorama Trek,1040.0,10,Easy-Moderate,3860,Guesthouse,2022-05-03,Other,28,No,2017,6460,Rwanda,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,2,0
+Everest Base Camp Trek via Gokyo Lake,1530.0,19,Moderate-Hard,5545,Guesthouse,2022-01-27,Other,29,No,2017,6590,St. Christopher Navis,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Gokyo Lake Trek,1190.0,13,Moderate,5357,Guesthouse,2021-12-07,Male,28,Yes,2017,6620,St. Lucia,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,3,0
+Everest Base Camp Heli Trek,3600.0,9,Moderate,5545,Guesthouse,2021-10-28,Female,25,Yes,2017,6700,St. Vincent,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,3,0
+Annapurna Circuit Trek,1100.0,19,Moderate-Hard,5416,Guesthouse,2022-09-07,Female,28,Yes,2017,6740,Sun Marino,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Annapurna Base Camp Trek,1090.0,16,Moderate,4130,Guesthouse,2021-05-19,Other,34,No,2017,6780,Santa Principa,0.0,0,12,1,,,,4.0,Spring - Autumn,3,0
+Ghorepani Poon Hill Trek,450.0,10,Easy,3210,Guesthouse,2021-08-22,Female,28,Yes,2017,6820,Saudi Arabia,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,0,1
+Upper Mustang Trek,2100.0,17,Moderate-Hard,4200,Guesthouse,2022-10-14,Male,28,No,2017,6860,Senegal,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Mardi Himal Trek,590.0,9,Easy-Moderate,4500,Guesthouse,2022-09-06,Female,31,Yes,2017,6880,Serbia,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,2,0
+Langtang Valley Trekking,690.0,11,Moderate,4773,Guesthouse,2022-02-05,Male,27,No,2017,6900,Saechel,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,3,1
+Manaslu Circuit Trek,1190.0,17,Moderate-Hard,5220,Guesthouse,2022-10-24,Female,31,No,2017,6940,Sierra Leone,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Annapurna Base Camp Trek,1090.0,14,Moderate,4210,Guesthouse,2023-07-30,Other,34,No,2017,7020,Singapore,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,3,1
+Annapurna Base Camp Short Trek,1090.0,11,Easy To Moderate,4210,Teahouses,2023-05-19,Male,34,No,2017,7030,Slovakia,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,1,0
+Instant Annapurna Base Camp Trek,980.0,9,Moderate,4230,Guest Houses,2022-10-01,Male,32,No,2017,7040,Vietnam,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,3,0
+Annapurna Base Camp Heli Trek,1750.0,9,Easy To Moderate,4210,Teahouses,2023-05-27,Other,28,No,2017,7050,Slovenia,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,1,1
+Mardi Himal Trek,850.0,9,Easy To Moderate,4200,Guesthouses,2021-12-31,Other,33,No,2017,7060,Somalia,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,1,0
+Mardi Himal Trekking,850.0,8,Easy To Moderate,4200,Guesthouse,2023-08-01,Male,28,No,2017,7100,Republic of South Africa,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,1,1
+Classic Annapurna Circuit Trek,1350.0,18,Moderate,5416,Teahouses,2022-11-18,Female,31,No,2017,7160,Zimbabwe,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,3,0
+Annapurna Circuit Trek,1250.0,14,Moderate,5416,Teahouses,2021-08-18,Other,27,No,2017,7240,Spain,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,3,0
+Annapurna Circuit Short Trek,1250.0,12,Strenuous,5416,Guesthouse,2022-02-09,Other,25,No,2017,7280,South Sudan,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,5,1
+Annapurna Luxury Trek,1450.0,9,Easy To Moderate,2012,Luxury Lodges,2022-03-26,Other,31,No,2017,7290,Sudan,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,1,0
+Annapurna Panorama Trek,860.0,9,Easy,3210,Teahouse,2022-09-19,Other,28,No,2017,7400,Slinum,0.0,0,12,1,,,,4.0,Spring - Autumn,0,0
+Annapurna Tilicho Lake Trek,1450.0,17,Strenuous,5416,Guesthouse,2021-02-08,Male,27,No,2017,7480,Swaji Land,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,5,0
+Short Annapurna Trek,590.0,5,Easy,1990,Lodges,2022-01-19,Other,26,No,2017,7520,Sweden,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,0,0
+Manaslu Circuit Trek,1450.0,15,Strenuous,5106,Guesthouse,2020-08-17,Other,34,Yes,2017,7560,Switzerland,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,5,1
+Manaslu Circuit Trekking,1380.0,14,Moderate,5220,Teahouses,2023-01-20,Other,30,No,2017,7600,Syria,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,3,0
+Tsum Valley with Manaslu Trek,1850.0,20,Strenuous,5220,Guesthouse,2023-07-13,Female,34,No,2017,7620,Tajikistan,0.0,0,12,1,,,,4.0,Spring - Autumn,5,0
+Upper Mustang Trek,2150.0,17,Easy To Moderate,4210,Guesthouse,2022-05-10,Female,28,No,2017,7640,Thailand,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,1,0
+Upper Mustang Trek with Yara,2300.0,18,Easy To Moderate,4200,Lodges,2022-09-12,Male,32,No,2017,7680,Togo,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Spring,1,0
+Upper Mustang Tiji Festival Trek,2150.0,18,Easy To Moderate,4210,Teahouses,2023-03-05,Female,26,No,2017,7760,Tonga,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,1,1
+Langtang Valley Trek,750.0,10,Easy To Moderate,5050,Teahouse,2021-06-05,Other,28,Yes,2017,7800,Republic of Trinidad and Tobago,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,1,0
+Langtang Gosaikunda Trek,1180.0,16,Easy To Moderate,4600,Guesthouse,2023-03-01,Female,26,No,2017,7840,United Arab Emirates,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,1,1
+Tamang Heritage Trek,920.0,14,Easy To Moderate,5050,Guesthouse,2022-08-10,Male,35,Yes,2017,7880,Tunisia,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,1,0
+Tamang Heritage Trail,750.0,8,Easy,2607,Teahouses/Lodges,2020-11-30,Other,25,Yes,2017,7920,Turkey,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,0,0
+Helambu Trek,780.0,9,Easy,3650,Guesthouse,2023-06-17,Other,25,No,2017,7950,Torque menistan,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,0,1
+Annapurna Base Camp Trek,1499.0,11,Moderate+Demanding,4130,Guesthouse,2020-04-15,Other,28,No,2017,7980,Tsubaru,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Everest Base Camp Trek for Youths,1750.0,14,Demanding,5545,Guesthouse,2020-09-09,Male,28,No,2017,8000,Uganda,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Everest Base Camp Short Trek,1499.0,14,Demanding,5545,Guesthouse,2022-09-24,Other,28,No,2017,8040,Ukraine,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Everest Base Camp Trek,1499.0,16,Moderate+Demanding,5545,Guesthouse,2021-02-22,Male,26,No,2017,8070,Former Macedonia Yugoslavia Republic,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Annapurna Circuit Trek,1499.0,17,Demanding,5416,Guesthouse,2020-08-02,Other,26,No,2017,8180,Egypt,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Everest Base Camp Luxury Lodge Trek,1499.0,15,Demanding,5545,Guesthouse,2020-03-12,Female,27,No,2017,8260,British,0.0,0,12,1,,,,4.0,Spring - Autumn,4,0
+Everest Base Camp Trek via Gokyo Lakes and Cho La Pass,1499.0,18,Demanding,5545,Guesthouse,2020-05-31,Other,30,No,2017,8340,Tanzania,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Upper Mustang Trek,1499.0,17,Moderate+Demanding,3870,Guesthouse,2023-03-12,Other,28,No,2017,8400,united states of america,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Everest Advanced Base Camp Trek from Tibet,1499.0,18,Moderate+Demanding,6340,Guesthouse,2020-09-13,Male,34,No,2017,8540,Burkina Faso,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Gokyo Lakes and Gokyo Ri Trek,1499.0,14,Moderate+Demanding,5357,Guesthouse,2023-03-04,Other,33,No,2017,8580,Uruguay,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Mardi Himal Trek,1499.0,10,Moderate,3540,Guesthouse,2021-11-27,Other,25,Yes,2017,8600,Uzbekistan,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,3,0
+Manaslu Circuit Trek,1499.0,18,Demanding,5160,Guesthouse,2020-10-05,Other,34,No,2017,8620,Venezuela,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Langtang Valley Trek,1499.0,11,Moderate+Demanding,5000,Guesthouse,2022-04-11,Other,29,Yes,2017,8820,Samoa Independent State,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Annapurna Sanctuary Trek,1499.0,14,Moderate+Demanding,4130,Guesthouse,2020-02-10,Other,25,No,2017,8870,Yemen,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Rara Lake Trek,1499.0,15,Moderate,3055,Guesthouse,2020-04-03,Female,30,Yes,2017,8940,Zambia,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,3,1
+Everest High Passes Trek,1499.0,20,Demanding,5546,Guesthouse,2022-01-15,Male,27,No,2017,9010,Kosovo,0.0,0,12,1,,,,4.0,Spring - Autumn,4,0
+Kanchenjunga Circuit Trek,1499.0,25,Demanding,5143,Guesthouse,2022-10-10,Male,31,No,2017,9990,others,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Everest View Trek,1499.0,12,Light+Moderate,3870,Guesthouse,2023-08-07,Female,28,No,2016,0,total,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,2,0
+Tsum Valley Trek,1499.0,19,Demanding,6000,Guesthouse,2022-02-05,Other,28,No,2016,40,Afghanistan,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+The Royal Trek,1499.0,9,Moderate,1730,Guesthouse,2020-09-18,Other,32,Yes,2016,80,Albania,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,3,1
+Makalu Base Camp Trek,1499.0,22,Demanding+Challenging,4870,Guesthouse,2022-12-11,Male,29,No,2016,120,Algeria,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,5,0
+Langtang Gosainkunda and Helambu Trek,1499.0,17,Moderate,5000,Guesthouse,2021-03-03,Female,25,No,2016,200,Andra,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,3,1
+Nar Phu Valley Trek,1499.0,19,Demanding,5416,Guesthouse,2022-01-21,Other,31,No,2016,240,Angola,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Annapurna Circle Trek,1499.0,14,Demanding,5416,Guesthouse,2022-06-16,Other,29,No,2016,280,Antigua Berbuda,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Everest Kangshung Face Trek,1499.0,21,Demanding+Challenging,5320,Guesthouse,2020-12-31,Other,25,Yes,2016,310,Azerbaijan,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,5,1
+Tsum Valley and Manaslu Trek,1499.0,27,Demanding,4460,Guesthouse,2022-11-23,Male,28,Yes,2016,320,Argentina,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Khopra Ridge Community Trek,1499.0,13,Moderate+Demanding,4500,Guesthouse,2022-05-26,Male,27,No,2016,360,Australia,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Nepal Experience Tour,1499.0,12,Light,3210,Guesthouse,2022-11-17,Other,28,No,2016,400,Austria,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,1,0
+Annapurna Circuit Trek with Tilicho Lake and Poon Hill,1499.0,20,Demanding,5416,Guesthouse,2020-12-20,Other,26,Yes,2016,440,Bahamas,0.0,0,12,1,,,,4.0,Spring - Autumn,4,0
+Annapurna With Tilicho Lake Trek,1499.0,17,Demanding,5416,Guesthouse,2022-03-22,Female,27,No,2016,480,Barrane,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Langtang Valley Trek with Ganja la Pass,1499.0,14,Demanding+Challenging,5122,Guesthouse,2022-03-15,Male,33,No,2016,500,Bangladesh,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,5,0
+Tamang Heritage Trek,1499.0,14,Moderate,3870,Guesthouse,2020-08-09,Male,34,No,2016,510,Armenia,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,3,1
+Manaslu and Annapurna Trek with Tilicho Lake,1499.0,25,Demanding,5416,Guesthouse,2022-05-05,Other,28,No,2016,520,Barbados,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Nepal Trekking and Everest Himalaya Heli Tour,1499.0,7,Moderate,5545,Guesthouse,2022-04-13,Male,26,Yes,2016,560,Belgium,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,3,0
+Nepal Hiking and Culture Tour,1499.0,8,Moderate,1550,Guesthouse,2023-06-27,Female,31,No,2016,640,Bhutan,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,3,1
+Annapurna Sunrise and Everest View Trek,1499.0,17,Moderate,3870,Guesthouse,2022-02-01,Female,35,No,2016,680,Bolivia,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,3,0
+Tenzing Hillary Everest Marathon,1499.0,20,Demanding+Challenging,5545,Guesthouse,2022-10-21,Other,28,No,2016,700,Bosnia Herzegovna,0.0,0,12,1,,,,4.0,Spring - Autumn,5,0
+Everest Base Camp Trek,1450.0,16,Moderate-Hard,5545,Guesthouse,2023-06-07,Other,28,No,2016,720,Botwana,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Everest Kalapathar Trekking,1390.0,15,Moderate-Hard,5545,Guesthouse,2020-03-25,Other,30,No,2016,760,Brazil,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Everest Panorama Trek,1040.0,10,Easy-Moderate,3860,Guesthouse,2022-02-21,Male,31,Yes,2016,840,Belize,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,2,1
+Everest Base Camp Trek via Gokyo Lake,1530.0,19,Moderate-Hard,5545,Guesthouse,2022-11-04,Female,31,No,2016,900,Solomon,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Gokyo Lake Trek,1190.0,13,Moderate,5357,Guesthouse,2020-06-13,Male,34,No,2016,960,Brunei,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,3,1
+Everest Base Camp Heli Trek,3600.0,9,Moderate,5545,Guesthouse,2021-07-03,Male,34,No,2016,1000,Bulgaria,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,3,0
+Annapurna Circuit Trek,1100.0,19,Moderate-Hard,5416,Guesthouse,2022-03-15,Female,34,No,2016,1040,Myanmar,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Annapurna Base Camp Trek,1090.0,16,Moderate,4130,Guesthouse,2021-08-18,Male,34,No,2016,1080,Brush,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,3,1
+Ghorepani Poon Hill Trek,450.0,10,Easy,3210,Guesthouse,2020-04-26,Male,29,Yes,2016,1120,Belarus,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,0,0
+Upper Mustang Trek,2100.0,17,Moderate-Hard,4200,Guesthouse,2022-03-13,Other,31,No,2016,1160,Cambodia,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Mardi Himal Trek,590.0,9,Easy-Moderate,4500,Guesthouse,2020-05-25,Male,28,No,2016,1200,Cameroon,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,2,0
+Langtang Valley Trekking,690.0,11,Moderate,4773,Guesthouse,2022-07-16,Other,31,No,2016,1240,Canada,0.0,0,12,1,,,,4.0,Spring - Autumn,3,0
+Manaslu Circuit Trek,1190.0,17,Moderate-Hard,5220,Guesthouse,2022-02-26,Female,34,No,2016,1320,Carbo verde,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Annapurna Base Camp Trek,1090.0,14,Moderate,4210,Guesthouse,2023-07-12,Other,30,No,2016,1400,Central Africa,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,3,0
+Annapurna Base Camp Short Trek,1090.0,11,Easy To Moderate,4210,Teahouses,2021-05-10,Other,26,Yes,2016,1440,Sri Lanka,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,1,1
+Instant Annapurna Base Camp Trek,980.0,9,Moderate,4230,Guest Houses,2022-11-30,Male,30,No,2016,1480,Chad,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,3,0
+Annapurna Base Camp Heli Trek,1750.0,9,Easy To Moderate,4210,Teahouses,2022-05-07,Other,29,No,2016,1520,Chile,0.0,0,12,1,,,,4.0,Spring - Autumn,1,0
+Mardi Himal Trek,850.0,9,Easy To Moderate,4200,Guesthouses,2022-09-04,Other,26,No,2016,1560,China,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,1,1
+Mardi Himal Trekking,850.0,8,Easy To Moderate,4200,Guesthouse,2022-02-04,Other,27,No,2016,1580,Taiwan,0.0,0,12,1,,,,4.0,Spring - Autumn,1,0
+Classic Annapurna Circuit Trek,1350.0,18,Moderate,5416,Teahouses,2021-01-27,Female,35,No,2016,1700,Columbia,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,3,1
+Annapurna Circuit Trek,1250.0,14,Moderate,5416,Teahouses,2022-12-18,Male,33,No,2016,1740,Komoro,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,3,0
+Annapurna Circuit Short Trek,1250.0,12,Strenuous,5416,Guesthouse,2022-07-21,Female,26,No,2016,1780,Congo,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,5,0
+Annapurna Luxury Trek,1450.0,9,Easy To Moderate,2012,Luxury Lodges,2022-04-05,Male,27,No,2016,1781,Zaire,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,1,1
+Annapurna Panorama Trek,860.0,9,Easy,3210,Teahouse,2020-05-27,Other,28,No,2016,1800,Congo Democratic Republic,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,0,0
+Annapurna Tilicho Lake Trek,1450.0,17,Strenuous,5416,Guesthouse,2023-04-11,Male,31,No,2016,1880,Costa Rica,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,5,1
+Short Annapurna Trek,590.0,5,Easy,1990,Lodges,2020-02-29,Other,27,Yes,2016,1910,Croatia,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,0,0
+Manaslu Circuit Trek,1450.0,15,Strenuous,5106,Guesthouse,2021-07-02,Male,34,No,2016,1920,Cuba,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,5,0
+Manaslu Circuit Trekking,1380.0,14,Moderate,5220,Teahouses,2021-08-30,Male,28,No,2016,1960,Cyprus,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,3,1
+Tsum Valley with Manaslu Trek,1850.0,20,Strenuous,5220,Guesthouse,2023-05-15,Other,34,No,2016,2030,Czech Republic,0.0,0,12,1,,,,4.0,Spring - Autumn,5,0
+Upper Mustang Trek,2150.0,17,Easy To Moderate,4210,Guesthouse,2023-07-26,Female,28,No,2016,2040,Benan,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,1,1
+Upper Mustang Trek with Yara,2300.0,18,Easy To Moderate,4200,Lodges,2023-03-17,Other,29,No,2016,2080,Denmark,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Spring,1,0
+Upper Mustang Tiji Festival Trek,2150.0,18,Easy To Moderate,4210,Teahouses,2021-05-19,Female,28,No,2016,2120,Dominica,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,1,0
+Langtang Valley Trek,750.0,10,Easy To Moderate,5050,Teahouse,2023-06-19,Other,28,No,2016,2140,dominican republic,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,1,1
+Langtang Gosaikunda Trek,1180.0,16,Easy To Moderate,4600,Guesthouse,2020-01-04,Other,34,Yes,2016,2180,Ecuador,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,1,0
+Tamang Heritage Trek,920.0,14,Easy To Moderate,5050,Guesthouse,2021-02-06,Other,34,No,2016,2220,El Salvador,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,1,1
+Tamang Heritage Trail,750.0,8,Easy,2607,Teahouses/Lodges,2020-08-24,Male,33,No,2016,2260,Equatorial guinea,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,0,0
+Helambu Trek,780.0,9,Easy,3650,Guesthouse,2021-09-20,Other,29,Yes,2016,2310,Ethiopia,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,0,0
+Annapurna Base Camp Trek,1499.0,11,Moderate+Demanding,4130,Guesthouse,2020-05-20,Other,33,No,2016,2320,Eritria,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Everest Base Camp Trek for Youths,1750.0,14,Demanding,5545,Guesthouse,2023-07-31,Male,26,No,2016,2330,Estonia,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Everest Base Camp Short Trek,1499.0,14,Demanding,5545,Guesthouse,2020-05-31,Other,28,No,2016,2390,Georgia,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Everest Base Camp Trek,1499.0,16,Moderate+Demanding,5545,Guesthouse,2020-10-29,Other,26,No,2016,2420,Fiji,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Annapurna Circuit Trek,1499.0,17,Demanding,5416,Guesthouse,2021-03-27,Other,35,No,2016,2460,Finland,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Everest Base Camp Luxury Lodge Trek,1499.0,15,Demanding,5545,Guesthouse,2023-04-02,Other,29,No,2016,2500,France,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Everest Base Camp Trek via Gokyo Lakes and Cho La Pass,1499.0,18,Demanding,5545,Guesthouse,2022-11-19,Other,27,Yes,2016,2620,Jibuti,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Upper Mustang Trek,1499.0,17,Moderate+Demanding,3870,Guesthouse,2021-10-13,Other,31,No,2016,2660,Gabon,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Everest Advanced Base Camp Trek from Tibet,1499.0,18,Moderate+Demanding,6340,Guesthouse,2020-02-04,Other,33,No,2016,2700,Gambia,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Gokyo Lakes and Gokyo Ri Trek,1499.0,14,Moderate+Demanding,5357,Guesthouse,2020-03-24,Female,34,No,2016,2750,Palestine,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Mardi Himal Trek,1499.0,10,Moderate,3540,Guesthouse,2021-01-23,Other,27,No,2016,2760,Germany,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,3,1
+Manaslu Circuit Trek,1499.0,18,Demanding,5160,Guesthouse,2023-01-28,Male,34,No,2016,2880,Ghana,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Langtang Valley Trek,1499.0,11,Moderate+Demanding,5000,Guesthouse,2023-01-02,Male,35,No,2016,2960,Kiribass,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Annapurna Sanctuary Trek,1499.0,14,Moderate+Demanding,4130,Guesthouse,2020-04-11,Other,28,No,2016,3000,Greece,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Rara Lake Trek,1499.0,15,Moderate,3055,Guesthouse,2020-12-01,Other,34,Yes,2016,3080,Grenada,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,3,0
+Everest High Passes Trek,1499.0,20,Demanding,5546,Guesthouse,2022-03-24,Other,32,No,2016,3200,Guatemala,0.0,0,12,1,,,,4.0,Spring - Autumn,4,0
+Kanchenjunga Circuit Trek,1499.0,25,Demanding,5143,Guesthouse,2022-10-27,Female,26,No,2016,3240,Guinea,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Everest View Trek,1499.0,12,Light+Moderate,3870,Guesthouse,2020-07-06,Female,29,No,2016,3280,Gaiana,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,2,1
+Tsum Valley Trek,1499.0,19,Demanding,6000,Guesthouse,2021-05-01,Female,31,Yes,2016,3320,Haiti,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+The Royal Trek,1499.0,9,Moderate,1730,Guesthouse,2023-05-27,Other,32,No,2016,3400,Honduras,0.0,0,12,1,,,,4.0,Spring - Autumn,3,0
+Makalu Base Camp Trek,1499.0,22,Demanding+Challenging,4870,Guesthouse,2021-12-29,Other,32,No,2016,3440,China (Hong Kong),0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,5,1
+Langtang Gosainkunda and Helambu Trek,1499.0,17,Moderate,5000,Guesthouse,2022-06-14,Other,32,Yes,2016,3441,Hong Kong DI,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,3,0
+Nar Phu Valley Trek,1499.0,19,Demanding,5416,Guesthouse,2023-04-10,Male,26,No,2016,3442,Hong Kong SAR,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Annapurna Circle Trek,1499.0,14,Demanding,5416,Guesthouse,2021-12-23,Female,26,No,2016,3480,Hungary,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Everest Kangshung Face Trek,1499.0,21,Demanding+Challenging,5320,Guesthouse,2020-11-29,Other,26,Yes,2016,3520,Iceland,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,5,0
+Tsum Valley and Manaslu Trek,1499.0,27,Demanding,4460,Guesthouse,2021-12-16,Female,28,No,2016,3560,India,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Khopra Ridge Community Trek,1499.0,13,Moderate+Demanding,4500,Guesthouse,2023-03-19,Other,33,No,2016,3600,Indonesia,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Nepal Experience Tour,1499.0,12,Light,3210,Guesthouse,2022-02-20,Other,28,No,2016,3640,Iran,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,1,1
+Annapurna Circuit Trek with Tilicho Lake and Poon Hill,1499.0,20,Demanding,5416,Guesthouse,2022-07-26,Female,29,No,2016,3680,Iraq,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Annapurna With Tilicho Lake Trek,1499.0,17,Demanding,5416,Guesthouse,2020-12-09,Male,29,No,2016,3720,Ireland,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Langtang Valley Trek with Ganja la Pass,1499.0,14,Demanding+Challenging,5122,Guesthouse,2021-05-25,Other,26,No,2016,3760,Israel,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,5,1
+Tamang Heritage Trek,1499.0,14,Moderate,3870,Guesthouse,2023-06-17,Other,32,No,2016,3800,Italy,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,3,0
+Manaslu and Annapurna Trek with Tilicho Lake,1499.0,25,Demanding,5416,Guesthouse,2020-05-18,Other,34,Yes,2016,3840,Court Jiboire,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Nepal Trekking and Everest Himalaya Heli Tour,1499.0,7,Moderate,5545,Guesthouse,2022-03-18,Female,27,No,2016,3880,Jamaica,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,3,0
+Nepal Hiking and Culture Tour,1499.0,8,Moderate,1550,Guesthouse,2021-01-23,Male,31,No,2016,3980,Kazakhstan,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,3,0
+Annapurna Sunrise and Everest View Trek,1499.0,17,Moderate,3870,Guesthouse,2020-09-14,Male,29,No,2016,4000,Jordan,0.0,0,12,1,,,,4.0,Spring - Autumn,3,0
+Tenzing Hillary Everest Marathon,1499.0,20,Demanding+Challenging,5545,Guesthouse,2020-12-30,Other,28,No,2016,4040,Kenya,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,5,0
+Everest Base Camp Trek,1450.0,16,Moderate-Hard,5545,Guesthouse,2020-03-22,Female,32,No,2016,4080,north korea,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Everest Kalapathar Trekking,1390.0,15,Moderate-Hard,5545,Guesthouse,2022-03-17,Other,35,No,2016,4100,South Korea,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Everest Panorama Trek,1040.0,10,Easy-Moderate,3860,Guesthouse,2020-10-11,Female,25,Yes,2016,4140,Kuwait,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,2,0
+Everest Base Camp Trek via Gokyo Lake,1530.0,19,Moderate-Hard,5545,Guesthouse,2021-05-07,Female,27,No,2016,4170,Kyrgyzstan,0.0,0,12,1,,,,4.0,Spring - Autumn,4,0
+Gokyo Lake Trek,1190.0,13,Moderate,5357,Guesthouse,2020-04-17,Other,32,No,2016,4180,Laos,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,3,0
+Everest Base Camp Heli Trek,3600.0,9,Moderate,5545,Guesthouse,2022-02-17,Female,27,No,2016,4220,Lebanon,0.0,0,12,1,,,,4.0,Spring - Autumn,3,0
+Annapurna Circuit Trek,1100.0,19,Moderate-Hard,5416,Guesthouse,2021-06-10,Female,34,No,2016,4260,Lesot,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Annapurna Base Camp Trek,1090.0,16,Moderate,4130,Guesthouse,2023-04-21,Male,31,No,2016,4280,Latvia,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,3,0
+Ghorepani Poon Hill Trek,450.0,10,Easy,3210,Guesthouse,2022-12-21,Other,34,No,2016,4300,Liberia,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,0,1
+Upper Mustang Trek,2100.0,17,Moderate-Hard,4200,Guesthouse,2022-04-08,Other,26,No,2016,4340,Libya,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Mardi Himal Trek,590.0,9,Easy-Moderate,4500,Guesthouse,2023-04-05,Female,33,No,2016,4380,Liechtenstein,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,2,1
+Langtang Valley Trekking,690.0,11,Moderate,4773,Guesthouse,2023-08-11,Other,28,No,2016,4400,Lithuania,0.0,0,12,1,,,,4.0,Spring - Autumn,3,0
+Manaslu Circuit Trek,1190.0,17,Moderate-Hard,5220,Guesthouse,2023-05-12,Female,34,No,2016,4420,Luxembourg,0.0,0,12,1,,,,4.0,Spring - Autumn,4,0
+Annapurna Base Camp Trek,1090.0,14,Moderate,4210,Guesthouse,2021-05-10,Other,33,No,2016,4460,Macau,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,3,1
+Annapurna Base Camp Short Trek,1090.0,11,Easy To Moderate,4210,Teahouses,2020-10-04,Female,30,No,2016,4461,Macau travel certificate,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,1,0
+Instant Annapurna Base Camp Trek,980.0,9,Moderate,4230,Guest Houses,2022-12-18,Other,34,Yes,2016,4500,Madagascar,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,3,1
+Annapurna Base Camp Heli Trek,1750.0,9,Easy To Moderate,4210,Teahouses,2022-06-24,Other,32,No,2016,4540,Malawi,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,1,0
+Mardi Himal Trek,850.0,9,Easy To Moderate,4200,Guesthouses,2020-01-28,Male,25,No,2016,4580,Malaysia,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,1,0
+Mardi Himal Trekking,850.0,8,Easy To Moderate,4200,Guesthouse,2022-01-24,Other,26,No,2016,4620,Maldives,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,1,1
+Classic Annapurna Circuit Trek,1350.0,18,Moderate,5416,Teahouses,2020-08-20,Male,28,No,2016,4660,Mari,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,3,0
+Annapurna Circuit Trek,1250.0,14,Moderate,5416,Teahouses,2022-03-09,Other,31,No,2016,4700,Malta,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,3,1
+Annapurna Circuit Short Trek,1250.0,12,Strenuous,5416,Guesthouse,2022-10-02,Male,32,No,2016,4780,Mauritania,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,5,0
+Annapurna Luxury Trek,1450.0,9,Easy To Moderate,2012,Luxury Lodges,2021-09-15,Male,34,No,2016,4800,Mauritius,0.0,0,12,1,,,,4.0,Spring - Autumn,1,0
+Annapurna Panorama Trek,860.0,9,Easy,3210,Teahouse,2022-03-11,Other,25,Yes,2016,4840,Mexico,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,0,1
+Annapurna Tilicho Lake Trek,1450.0,17,Strenuous,5416,Guesthouse,2020-12-12,Other,35,No,2016,4920,Monaco,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,5,0
+Short Annapurna Trek,590.0,5,Easy,1990,Lodges,2022-09-28,Female,28,No,2016,4960,Mongolia,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,0,1
+Manaslu Circuit Trek,1450.0,15,Strenuous,5106,Guesthouse,2020-11-24,Female,28,No,2016,4980,Moldoba,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,5,0
+Manaslu Circuit Trekking,1380.0,14,Moderate,5220,Teahouses,2021-09-18,Male,33,No,2016,4990,Montenegro,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,3,0
+Tsum Valley with Manaslu Trek,1850.0,20,Strenuous,5220,Guesthouse,2020-12-04,Male,28,No,2016,5040,Morocco,0.0,0,12,1,,,,4.0,Spring - Autumn,5,0
+Upper Mustang Trek,2150.0,17,Easy To Moderate,4210,Guesthouse,2023-02-01,Female,31,No,2016,5080,Mozambique,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,1,0
+Upper Mustang Trek with Yara,2300.0,18,Easy To Moderate,4200,Lodges,2020-02-01,Other,28,No,2016,5120,Oman,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Spring,1,1
+Upper Mustang Tiji Festival Trek,2150.0,18,Easy To Moderate,4210,Teahouses,2021-03-30,Other,34,No,2016,5160,Namibia,0.0,0,12,1,,,,4.0,Spring - Autumn,1,0
+Langtang Valley Trek,750.0,10,Easy To Moderate,5050,Teahouse,2022-08-20,Female,34,Yes,2016,5200,Naure,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,1,0
+Langtang Gosaikunda Trek,1180.0,16,Easy To Moderate,4600,Guesthouse,2020-06-20,Male,28,No,2016,5240,Nepal,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,1,1
+Tamang Heritage Trek,920.0,14,Easy To Moderate,5050,Guesthouse,2020-04-26,Male,35,No,2016,5280,Netherlands,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,1,0
+Tamang Heritage Trail,750.0,8,Easy,2607,Teahouses/Lodges,2020-11-29,Other,33,No,2016,5480,Vanuatsu,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,0,1
+Helambu Trek,780.0,9,Easy,3650,Guesthouse,2020-01-25,Other,31,Yes,2016,5540,new zealand,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,0,0
+Annapurna Base Camp Trek,1499.0,11,Moderate+Demanding,4130,Guesthouse,2021-06-11,Female,31,No,2016,5580,Nicaragua,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Everest Base Camp Trek for Youths,1750.0,14,Demanding,5545,Guesthouse,2020-09-17,Female,29,No,2016,5620,Nigail,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Everest Base Camp Short Trek,1499.0,14,Demanding,5545,Guesthouse,2021-04-10,Male,28,No,2016,5660,Nigeria,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Everest Base Camp Trek,1499.0,16,Moderate+Demanding,5545,Guesthouse,2022-01-05,Male,32,No,2016,5780,Norway,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Annapurna Circuit Trek,1499.0,17,Demanding,5416,Guesthouse,2020-07-19,Female,30,Yes,2016,5830,Micronesia,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Everest Base Camp Luxury Lodge Trek,1499.0,15,Demanding,5545,Guesthouse,2020-11-12,Other,28,No,2016,5840,Marshall,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Everest Base Camp Trek via Gokyo Lakes and Cho La Pass,1499.0,18,Demanding,5545,Guesthouse,2022-08-31,Female,29,No,2016,5850,Palao,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Upper Mustang Trek,1499.0,17,Moderate+Demanding,3870,Guesthouse,2021-09-29,Male,27,No,2016,5860,Pakistan,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Everest Advanced Base Camp Trek from Tibet,1499.0,18,Moderate+Demanding,6340,Guesthouse,2023-03-28,Other,28,No,2016,5910,Panama,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Gokyo Lakes and Gokyo Ri Trek,1499.0,14,Moderate+Demanding,5357,Guesthouse,2023-04-24,Female,28,No,2016,5980,Papua New Guinea,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Mardi Himal Trek,1499.0,10,Moderate,3540,Guesthouse,2021-07-09,Other,28,No,2016,6000,Paraguay,0.0,0,12,1,,,,4.0,Spring - Autumn,3,0
+Manaslu Circuit Trek,1499.0,18,Demanding,5160,Guesthouse,2021-12-07,Male,32,Yes,2016,6040,Peru,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Langtang Valley Trek,1499.0,11,Moderate+Demanding,5000,Guesthouse,2022-06-11,Other,29,No,2016,6080,Philippines,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Annapurna Sanctuary Trek,1499.0,14,Moderate+Demanding,4130,Guesthouse,2023-04-22,Female,25,Yes,2016,6160,Poland,0.0,0,12,1,,,,4.0,Spring - Autumn,4,0
+Rara Lake Trek,1499.0,15,Moderate,3055,Guesthouse,2022-05-29,Female,34,Yes,2016,6200,Portugal,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,3,0
+Everest High Passes Trek,1499.0,20,Demanding,5546,Guesthouse,2020-11-26,Other,31,No,2016,6240,Guinea Visau,0.0,0,12,1,,,,4.0,Spring - Autumn,4,0
+Kanchenjunga Circuit Trek,1499.0,25,Demanding,5143,Guesthouse,2022-07-04,Female,28,No,2016,6260,East Timor Democratic Republic,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Everest View Trek,1499.0,12,Light+Moderate,3870,Guesthouse,2022-12-07,Other,31,Yes,2016,6340,Qatar,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,2,0
+Tsum Valley Trek,1499.0,19,Demanding,6000,Guesthouse,2022-03-06,Female,29,Yes,2016,6420,Romania,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+The Royal Trek,1499.0,9,Moderate,1730,Guesthouse,2020-11-21,Other,31,No,2016,6430,Russia,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,3,0
+Makalu Base Camp Trek,1499.0,22,Demanding+Challenging,4870,Guesthouse,2023-07-06,Female,31,No,2016,6460,Rwanda,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,5,0
+Langtang Gosainkunda and Helambu Trek,1499.0,17,Moderate,5000,Guesthouse,2022-05-13,Other,25,No,2016,6590,St. Christopher Navis,0.0,0,12,1,,,,4.0,Spring - Autumn,3,0
+Nar Phu Valley Trek,1499.0,19,Demanding,5416,Guesthouse,2023-06-09,Other,28,No,2016,6620,St. Lucia,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Annapurna Circle Trek,1499.0,14,Demanding,5416,Guesthouse,2023-05-06,Male,34,No,2016,6700,St. Vincent,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Everest Kangshung Face Trek,1499.0,21,Demanding+Challenging,5320,Guesthouse,2023-01-18,Other,34,No,2016,6740,Sun Marino,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,5,0
+Tsum Valley and Manaslu Trek,1499.0,27,Demanding,4460,Guesthouse,2022-05-15,Other,34,Yes,2016,6780,Santa Principa,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Khopra Ridge Community Trek,1499.0,13,Moderate+Demanding,4500,Guesthouse,2023-01-25,Other,25,No,2016,6820,Saudi Arabia,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Nepal Experience Tour,1499.0,12,Light,3210,Guesthouse,2023-01-10,Female,28,No,2016,6860,Senegal,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,1,0
+Annapurna Circuit Trek with Tilicho Lake and Poon Hill,1499.0,20,Demanding,5416,Guesthouse,2023-05-11,Male,29,No,2016,6880,Serbia,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Annapurna With Tilicho Lake Trek,1499.0,17,Demanding,5416,Guesthouse,2022-11-01,Male,28,No,2016,6900,Saechel,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
+Langtang Valley Trek with Ganja la Pass,1499.0,14,Demanding+Challenging,5122,Guesthouse,2021-09-04,Female,34,No,2016,6940,Sierra Leone,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,5,0
+Tamang Heritage Trek,1499.0,14,Moderate,3870,Guesthouse,2022-05-18,Female,31,No,2016,7020,Singapore,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,3,1
+Manaslu and Annapurna Trek with Tilicho Lake,1499.0,25,Demanding,5416,Guesthouse,2023-08-03,Other,25,Yes,2016,7030,Slovakia,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,4,0
+Nepal Trekking and Everest Himalaya Heli Tour,1499.0,7,Moderate,5545,Guesthouse,2022-02-21,Male,28,No,2016,7040,Vietnam,0.0,0,12,1,,,,4.0,Spring - Autumn,3,0
+Nepal Hiking and Culture Tour,1499.0,8,Moderate,1550,Guesthouse,2022-04-24,Female,31,No,2016,7050,Slovenia,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,3,0
+Annapurna Sunrise and Everest View Trek,1499.0,17,Moderate,3870,Guesthouse,2020-01-30,Other,35,No,2016,7060,Somalia,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,3,0
+Tenzing Hillary Everest Marathon,1499.0,20,Demanding+Challenging,5545,Guesthouse,2022-09-10,Female,32,No,2016,7100,Republic of South Africa,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,5,1
+Everest Base Camp Trek,1450.0,16,Moderate-Hard,5545,Guesthouse,2022-11-15,Female,31,No,2016,7160,Zimbabwe,0.0,0,12,1,,,,4.0,Spring - Autumn,4,0
+Everest Kalapathar Trekking,1390.0,15,Moderate-Hard,5545,Guesthouse,2020-09-24,Other,27,No,2016,7240,Spain,0.0,0,12,1,,,,4.0,Spring - Autumn,4,0
+Everest Panorama Trek,1040.0,10,Easy-Moderate,3860,Guesthouse,2021-05-18,Female,29,No,2016,7280,South Sudan,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,2,0
+Everest Base Camp Trek via Gokyo Lake,1530.0,19,Moderate-Hard,5545,Guesthouse,2020-09-18,Other,28,Yes,2016,7290,Sudan,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,4,0
+Gokyo Lake Trek,1190.0,13,Moderate,5357,Guesthouse,2022-04-10,Other,28,No,2016,7400,Slinum,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,3,1
+Everest Base Camp Heli Trek,3600.0,9,Moderate,5545,Guesthouse,2022-01-15,Other,28,No,2016,7480,Swaji Land,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,3,0
+Annapurna Circuit Trek,1100.0,19,Moderate-Hard,5416,Guesthouse,2020-12-19,Male,31,No,2016,7520,Sweden,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,4,1
+Annapurna Base Camp Trek,1090.0,16,Moderate,4130,Guesthouse,2022-09-01,Male,27,Yes,2016,7560,Switzerland,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,3,0
+Ghorepani Poon Hill Trek,450.0,10,Easy,3210,Guesthouse,2022-08-09,Male,25,Yes,2016,7600,Syria,1.0,0,5,1,Poles,Leisure,,4.0,Spring - Autumn,0,0
+Upper Mustang Trek,2100.0,17,Moderate-Hard,4200,Guesthouse,2022-09-09,Female,27,Yes,2016,7620,Tajikistan,0.0,1,6,0,,Adventure,Minor Injury,3.5,Spring - Autumn,4,1
+Mardi Himal Trek,590.0,9,Easy-Moderate,4500,Guesthouse,2021-05-04,Other,28,No,2016,7640,Thailand,1.0,0,10,1,Poles,Leisure,,4.5,Spring - Autumn,2,0
+Langtang Valley Trekking,690.0,11,Moderate,4773,Guesthouse,2021-01-13,Female,29,No,2016,7680,Togo,0.0,2,8,0,,Adventure,Altitude Sickness,3.0,Spring - Autumn,3,1
+Manaslu Circuit Trek,1190.0,17,Moderate-Hard,5220,Guesthouse,2025-05-13,Female,31,Yes,5460,4560,Nepal,2.0,3,12,1,Oxygen,Charity,,5.0,Spring - Autumn,4,0
