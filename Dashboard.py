@@ -7,7 +7,7 @@ import numpy as np
 import joblib
 from matplotlib.colors import to_hex
 from streamlit_option_menu import option_menu
-
+df = pd.read_csv('Nepali_Trekking_cleaned.csv')
 # Add custom CSS to fix the sidebar
 st.markdown(
     """
@@ -159,7 +159,7 @@ elif selected == "Recommendation":
                 st.error("Please enter valid numeric values for Cost, Trekking Group Size, Time, and Max Altitude.")
 elif selected == "Visualizations":
     st.title("Visualizations")
-    df = pd.read_csv('Nepali_Trekking_cleaned.csv')
+    # df = pd.read_csv('Nepali_Trekking_cleaned.csv')
 
     # Dropdown menu for selecting the topic
     topic = st.selectbox("Select a topic for visualization",
