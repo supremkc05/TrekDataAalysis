@@ -110,6 +110,7 @@ elif selected == "Dataset":
 elif selected == "Recommendation":
     st.title("Recommendation System")
     loaded_model = joblib.load('random_forest_model.pkl')
+    label_encoder = joblib.load('label_encoder.pkl')  # Load the LabelEncoder
 
     # Create a form
     with st.form(key='my_form'):
@@ -148,8 +149,11 @@ elif selected == "Recommendation":
 
                 # Make predictions
                 predictions = loaded_model.predict(input_data)
-                trek_prediction = predictions[0][0]
+                trek_prediction_encoded = predictions[0][0]
                 trip_grade_numeric_prediction = predictions[0][1]
+
+                # Decode the label-encoded trek name
+                trek_prediction = label_encoder.inverse_transform([int(trek_prediction_encoded)])[0]
 
                 # Display the predictions
                 st.write(f"Trek: {trek_prediction}")
