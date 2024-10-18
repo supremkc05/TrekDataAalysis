@@ -3,6 +3,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
+import numpy as np
+import joblib
 from matplotlib.colors import to_hex
 from streamlit_option_menu import option_menu
 
@@ -45,27 +47,34 @@ if selected == "Home":
         .stApp {
             background-image: url("https://i.ibb.co/qnLyTLy/A-breathtaking-short.jpg");
             background-repeat: no-repeat;
-            background-attachment: scroll;
+            background-attachment: fixed;
             background-size: cover;
         }
-        .centered-text {
+        .centered-container {
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             height: 80vh;
-            font-size: 2em;
+            font-size: 1em;
             color: white;
             font-weight: bold;
         }
+        .centered-text {
+            font-size: 2em;
+            color: white;
+        }
+        
         .description-text {
             text-align: center;
             font-size: 1em;
             color: black;
-            margin-top: 0px;/* Small gap */
         }
         </style>
-        <div class="centered-text"> <i>Welcome to Trekking Recommendation System</i></div>
+        <div class="centered-container">
+        <div class="centered-text">Welcome to Trekking Recommendation System</div>
         <div class="description-text"><i>Experience the beauty and adventure of trekking in the majestic mountains of Nepal. Join us for an unforgettable journey!</i></div>
+        </div>
         """,
         unsafe_allow_html=True
     )
@@ -99,7 +108,55 @@ elif selected == "Dataset":
         """
     )
 elif selected == "Recommendation":
-    st.title(f"You have selected {selected}")
+    st.title("Recommendation System")
+    loaded_model = joblib.load('random_forest_model.pkl')
+
+    # Create a form
+    with st.form(key='my_form'):
+        cost = st.text_input('Cost', '')
+        age = st.number_input('Age', min_value=0, max_value=100)
+        Trekking_Group_Size = st.text_input('Trekking Group Size', '')
+        fitness_level = st.selectbox('Fitness Level', ['Beginner', 'Intermediate', 'Advanced'])
+        time = st.text_input('Time', '')
+        altitude = st.text_input('Max Altitude', '')
+        submit_button = st.form_submit_button(label='Recommended Trek')
+
+    if submit_button:
+        # Input validation
+        if not cost or not Trekking_Group_Size or not time or not altitude:
+            st.error("Please fill in all the fields.")
+        else:
+            try:
+                # Convert inputs to appropriate types
+                cost = float(cost)
+                Trekking_Group_Size = float(Trekking_Group_Size)
+                time = float(time)
+                altitude = float(altitude)
+
+                # Convert fitness level to numeric
+                fitness_level_numeric = {'Beginner': 0, 'Intermediate': 1, 'Advanced': 2}[fitness_level]
+
+                # Create a DataFrame with the input values
+                input_data = pd.DataFrame({
+                    'Cost': [cost],
+                    'Age': [age],
+                    'Trekking Group Size': [Trekking_Group_Size],
+                    'Fitness Level': [fitness_level_numeric],
+                    'Time': [time],
+                    'Max Altitude': [altitude]
+                })
+
+                # Make predictions
+                predictions = loaded_model.predict(input_data)
+                trek_prediction = predictions[0][0]
+                trip_grade_numeric_prediction = predictions[0][1]
+
+                # Display the predictions
+                st.write(f"Trek: {trek_prediction}")
+                st.write(f"Trip Grade Numeric: {trip_grade_numeric_prediction}")
+
+            except ValueError:
+                st.error("Please enter valid numeric values for Cost, Trekking Group Size, Time, and Max Altitude.")
 elif selected == "Visualizations":
     st.title("Visualizations")
     df = pd.read_csv('Nepali_Trekking_cleaned.csv')
@@ -156,7 +213,19 @@ elif selected == "Visualizations":
         st.markdown(
             """
             <p style="color: black; text-align: justify;">
-            This graph shows the distribution of different trip grades, indicating the frequency of each grade among the treks.
+            <strong>X-axis</strong>: Trip grade categories (ranging from 0 to 5).<br>
+            <strong>Y-axis</strong>: Number of trekking packages.<br><br>
+            <strong>Grade Distribution Breakdown:</strong><br>
+            - <strong>Grade 0 (~20 trips):</strong> Few trips fall into this category, likely representing the easiest or least challenging treks.<br>
+            - <strong>Grade 1 (~60 trips):</strong> A moderate number of easier trips are in this category.<br>
+            - <strong>Grade 2 (~30 trips):</strong> There’s a dip, with fewer moderate-level trips.<br>
+            - <strong>Grade 3 (~80 trips):</strong> Significant rise, suggesting many trips are moderately challenging.<br>
+            - <strong>Grade 4 (~140 trips):</strong> The most common category, indicating many treks are challenging or high-quality.<br>
+            - <strong>Grade 5 (~50 trips):</strong> Fewer, but still notable, treks are rated the most difficult or highest quality.<br><br>
+            <strong>Insights:</strong><br>
+            - <strong>Grade 4 Dominates:</strong> Most treks are rated highly, likely challenging or of excellent quality.<br>
+            - <strong>Dip at Grade 2:</strong> Fewer trips fall into the moderate category.<br>
+            - <strong>Skew Toward Higher Grades:</strong> More trips are rated higher, indicating a preference for challenging or well-regarded treks.
             </p>
             """,
             unsafe_allow_html=True
@@ -194,7 +263,7 @@ elif selected == "Visualizations":
             <strong>Y-axis</strong>: Cost (up to 3000 units, likely USD).<br>
 
             <strong>Trend</strong>:<br>
-            - **High-cost trek:** The Everest Base Camp Heli Trek stands out, costing around 30,000 units.
+            - **High-cost trek:** The Everest Base Camp Heli Trek stands out, costing around 3000 units.
             - **Lower-cost treks:** The Annapurna Base Camp Short Trek, Ghorepani Poon Hill Trek, and Langtang Valley Trek are among the least expensive.
             - **Moderate range:** Many treks fall between 5,000 to 10,000 units.
             
