@@ -3,7 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
-import numpy as np
 import joblib
 from matplotlib.colors import to_hex
 from streamlit_option_menu import option_menu
@@ -124,7 +123,9 @@ elif selected == "Recommendation":
 
     if submit_button:
         # Input validation
-        if not cost or not Trekking_Group_Size or not time or not altitude:
+        if age > 40:
+            st.error("You are not recommended for the trek.")
+        elif not cost or not Trekking_Group_Size or not time or not altitude:
             st.error("Please fill in all the fields.")
         else:
             try:
