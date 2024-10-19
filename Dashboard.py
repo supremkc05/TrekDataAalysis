@@ -111,10 +111,20 @@ elif selected == "Recommendation":
     loaded_model = joblib.load('random_forest_model.pkl')
     label_encoder = joblib.load('label_encoder.pkl')  # Load the LabelEncoder
 
+    # Define the mapping for trip grade numeric to trek grade
+    trip_grade_mapping = {
+        0: "Easy",
+        1: "Light",
+        2: "Light+Moderate",
+        3: "Moderate",
+        4: "Moderate-Hard",
+        5: "Strenuous"
+    }
+
     # Create a form
     with st.form(key='my_form'):
         cost = st.text_input('Cost', '')
-        age = st.number_input('Age', min_value=0, max_value=100)
+        age = st.number_input('Age', min_value=0, max_value=40)
         Trekking_Group_Size = st.text_input('Trekking Group Size', '')
         fitness_level = st.selectbox('Fitness Level', ['Beginner', 'Intermediate', 'Advanced'])
         time = st.text_input('Time', '')
@@ -123,7 +133,7 @@ elif selected == "Recommendation":
 
     if submit_button:
         # Input validation
-        if age > 40:
+        if age > 40 or age < 18:
             st.error("You are not recommended for the trek.")
         elif not cost or not Trekking_Group_Size or not time or not altitude:
             st.error("Please fill in all the fields.")
@@ -156,9 +166,13 @@ elif selected == "Recommendation":
                 # Decode the label-encoded trek name
                 trek_prediction = label_encoder.inverse_transform([int(trek_prediction_encoded)])[0]
 
+                # Decode the trip grade numeric to trek grade
+                trek_grade = trip_grade_mapping[int(trip_grade_numeric_prediction)]
+
                 # Display the predictions
                 st.write(f"Trek: {trek_prediction}")
-                st.write(f"Trip Grade Numeric: {trip_grade_numeric_prediction}")
+                # st.write(f"Trip Grade Numeric: {trip_grade_numeric_prediction}")
+                st.write(f"Trek Grade: {trek_grade}")
 
             except ValueError:
                 st.error("Please enter valid numeric values for Cost, Trekking Group Size, Time, and Max Altitude.")
