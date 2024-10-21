@@ -133,10 +133,10 @@ elif selected == "Recommendation":
 
     if submit_button:
         # Input validation
-        if age > 40 or age < 18:
-            st.error("You are not recommended for the trek.")
-        elif not cost or not Trekking_Group_Size or not time or not altitude:
+        if not cost or not Trekking_Group_Size or not time or not altitude:
             st.error("Please fill in all the fields.")
+        elif age > 40 or age < 18:
+            st.error("You are not recommended for the trek.")
         else:
             try:
                 # Convert inputs to appropriate types
@@ -168,11 +168,17 @@ elif selected == "Recommendation":
 
                 # Decode the trip grade numeric to trek grade
                 trek_grade = trip_grade_mapping[int(trip_grade_numeric_prediction)]
-
-                # Display the predictions
-                st.write(f"Trek: {trek_prediction}")
-                # st.write(f"Trip Grade Numeric: {trip_grade_numeric_prediction}")
-                st.write(f"Trek Grade: {trek_grade}")
+                # Display the predictions in a styled box
+                st.markdown(
+                    f"""
+                                <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
+                                    <h4 style="color: #4CAF50;">Recommended Trek</h4>
+                                    <p><strong>Trek:</strong> {trek_prediction}</p>
+                                    <p><strong>Trek Grade:</strong> {trek_grade}</p>
+                                </div>
+                                """,
+                    unsafe_allow_html=True
+                )
 
             except ValueError:
                 st.error("Please enter valid numeric values for Cost, Trekking Group Size, Time, and Max Altitude.")
@@ -182,7 +188,7 @@ elif selected == "Visualizations":
 
     # Dropdown menu for selecting the topic
     topic = st.selectbox("Select a topic for visualization",
-                         ["Cost vs Duration", "Trip Grade Distribution", "Max Altitude Distribution", "Trek and Cost", "Trek and fitness Level"])
+                         ["Max Altitude Distribution", "Trek and Cost", "Trek and fitness Level","Cost vs Duration", "Trip Grade Distribution"])
 
     if topic == "Cost vs Duration":
         fig, ax = plt.subplots()
@@ -250,7 +256,7 @@ elif selected == "Visualizations":
             unsafe_allow_html=True
         )
     elif topic == "Max Altitude Distribution":
-        fig = px.histogram(df, x="Max Altitude", nbins=20, title="Distribution of Maximum Altitudes")
+        fig = px.histogram(df, x="Max Altitude", title="Distribution of Maximum Altitudes",color="Max Altitude")
         st.plotly_chart(fig)
 
         # Add detailed description
@@ -272,7 +278,7 @@ elif selected == "Visualizations":
             unsafe_allow_html=True
         )
     elif topic == "Trek and Cost":
-        fig = px.histogram(df, x="Trek", y="Cost", title="Trek and Cost")
+        fig = px.histogram(df, x="Trek", y="Cost", title="Trek and Cost",color="Trek")
         st.plotly_chart(fig)
         st.markdown(
             """
@@ -292,12 +298,6 @@ elif selected == "Visualizations":
             unsafe_allow_html=True
         )
     elif topic == "Trek and fitness Level":
-        # Define the color mapping for fitness levels
-        color_map = {
-            'Beginner': 'blue',
-            'Intermediate': 'red',
-            'Advanced': 'green'
-        }
 
         # Map the numeric fitness levels to their corresponding labels
         fitness_level_labels = {0: 'Beginner', 1: 'Intermediate', 2: 'Advanced'}
@@ -305,7 +305,7 @@ elif selected == "Visualizations":
 
         # Create the bar plot with the specified color mapping
         fig = px.bar(df, x="Trek", y="Fitness Level", color="Fitness Level Label",
-                     title="Trek and Fitness Level", color_discrete_map=color_map)
+                     title="Trek and Fitness Level")
         st.plotly_chart(fig)
         st.markdown(
             """
