@@ -1,11 +1,17 @@
 import streamlit as st
 import pandas as pd
+import time
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 import joblib
 from matplotlib.colors import to_hex
 from streamlit_option_menu import option_menu
+
+# Calculate and display the load time
+start_time = time.time()
+latency = time.time() - start_time
+print(f"loadtime: {latency}")
 df = pd.read_csv('Nepali_Trekking_cleaned.csv')
 # Add custom CSS to fix the sidebar
 st.markdown(
@@ -121,6 +127,9 @@ elif selected == "Recommendation":
         5: "Strenuous"
     }
 
+    # Load the dataset
+    df = pd.read_csv('Nepali_Trekking_cleaned.csv')
+
     # Create a form
     with st.form(key='my_form'):
         cost = st.text_input('Cost', '')
@@ -168,15 +177,20 @@ elif selected == "Recommendation":
 
                 # Decode the trip grade numeric to trek grade
                 trek_grade = trip_grade_mapping[int(trip_grade_numeric_prediction)]
+
+                # Retrieve the cost of the predicted trek from the dataset
+                predicted_trek_cost = df[df['Trek'] == trek_prediction]['Cost'].values[0]
+
                 # Display the predictions in a styled box
                 st.markdown(
                     f"""
-                                <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
-                                    <h4 style="color: #4CAF50;">Recommended Trek</h4>
-                                    <p><strong>Trek:</strong> {trek_prediction}</p>
-                                    <p><strong>Trek Grade:</strong> {trek_grade}</p>
-                                </div>
-                                """,
+                    <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
+                        <h4 style="color: #4CAF50;">Recommended Trek</h4>
+                        <p><strong>Trek:</strong> {trek_prediction}</p>
+                        <p><strong>Trek Grade:</strong> {trek_grade}</p>
+                        <p><strong>Cost:</strong> ${predicted_trek_cost}</p>
+                    </div>
+                    """,
                     unsafe_allow_html=True
                 )
 
@@ -184,7 +198,6 @@ elif selected == "Recommendation":
                 st.error("Please enter valid numeric values for Cost, Trekking Group Size, Time, and Max Altitude.")
 elif selected == "Visualizations":
     st.title("Visualizations")
-    # df = pd.read_csv('Nepali_Trekking_cleaned.csv')
 
     # Dropdown menu for selecting the topic
     topic = st.selectbox("Select a topic for visualization",
